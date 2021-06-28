@@ -1,0 +1,584 @@
+height,weight,age,isManOfTheMatch,isActive,playedPositions,playedPositionsShort,teamRegionName,regionCode,tournamentShortName,apps,subOn,shotOnTarget,shotOffTarget,shotOnPost,shotBlocked,name,firstName,lastName,playerId,positionText,teamId,teamName,seasonId,seasonName,isOpta,tournamentId,tournamentRegionId,tournamentRegionCode,tournamentRegionName,tournamentName,rating,minsPlayed,shotsTotal,ranking
+170,72,34,false,true,-AMC-AMR-FW-,"AM(CR),FW",Spain,ar,SLL,35,0,91,50,5,55,Lionel Messi,Lionel,Messi,11119,Forward,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,8.520285714285714,3023,196,1
+0,0,19,false,true,,Goalkeeper,Spain,es,SLL,1,0,0,0,0,0,Ángel Jiménez,Ángel,Jiménez,405792,Goalkeeper,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,8.24,90,0,2
+180,77,29,false,true,-AMC-AMR-FW-,"AM(CR),FW",Spain,es,SLL,33,0,47,31,4,19,Gerard Moreno,Gerard,Moreno,97659,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.624242424242424,2683,97,3
+185,81,33,false,true,-FW-,FW,Spain,fr,SLL,34,0,55,43,4,25,Karim Benzema,Karim,Benzema,14296,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.5711764705882345,2902,123,4
+178,66,18,false,true,-AML-,AM(L),Spain,es,SLL,7,0,7,6,0,1,Ansu Fati,Anssumane,Fati,382234,Forward,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.378571428571428,437,14,5
+185,84,29,false,true,-DMC-,DMC,Spain,br,SLL,34,0,11,25,2,10,Casemiro,Carlos Henrique,Casimiro,88526,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.35764705882353,2903,46,6
+176,67,33,false,true,-AMC-AMR-FW-,"AM(CR),FW",Spain,es,SLL,33,0,27,16,2,7,Iago Aspas,Iago,Aspas,91242,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.324545454545454,2871,50,7
+184,74,26,false,true,-FW-MC-MR-,"M(CR),FW",Spain,es,SLL,37,0,22,19,2,8,Marcos Llorente,Marcos,Llorente,254582,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.2648648648648635,2960,49,8
+188,83,25,false,true,-MC-,M(C),Spain,es,SLL,26,0,10,13,1,10,Mikel Merino,Mikel,Merino,238916,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.236923076923077,2157,33,9
+183,76,31,false,true,-MC-,M(C),Spain,de,SLL,28,0,12,17,0,5,Toni Kroos,Toni,Kroos,31772,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.222499999999999,2122,34,10
+192,80,31,false,true,-FW-,FW,Spain,es,SLL,37,0,33,38,2,22,Joselu,Jose Luis,Mato Sanmartín,74603,Forward,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.22,3038,93,11
+178,71,30,false,true,-DR-MR-,"D(R),M(R)",Spain,gb-eng,SLL,28,0,1,1,0,1,Kieran Trippier,Kieran,Trippier,83078,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.201785714285713,2477,3,12
+173,70,29,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,24,0,8,8,0,5,Lucas Vázquez,Lucas,Vázquez,144511,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.197500000000001,1851,21,13
+188,80,28,false,true,-DMC-,DMC,Spain,cf,SLL,5,0,2,2,0,0,Geoffrey Kondogbia,Geoffrey,Kondogbia,91978,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.192,441,4,14
+186,75,27,false,true,-DC-DMC-,"D(C),DMC",Spain,es,SLL,1,0,0,0,0,0,Diego Llorente,Diego,Llorente,123232,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.18,90,0,15
+176,73,30,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,fr,SLL,36,0,34,28,2,9,Antoine Griezmann,Antoine,Griezmann,80241,Forward,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.165833333333333,2621,71,16
+172,70,26,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,37,0,1,5,0,3,Javi Galán,Javier,Galán Gil,369497,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.162432432432432,3068,9,17
+185,73,27,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,be,SLL,30,0,24,12,0,7,Yannick Carrasco,Yannick,Carrasco,115472,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.1613333333333316,2189,43,18
+182,86,34,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,uy,SLL,32,0,43,44,5,17,Luis Suárez,Luis,Suárez,22221,Forward,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.155937499999999,2521,104,19
+172,66,35,false,true,-MC-,M(C),Spain,hr,SLL,35,0,15,14,1,16,Luka Modric,Luka,Modric,20874,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.154000000000001,2744,45,20
+180,74,24,false,true,-DC-DMC-,"D(C),DMC",Spain,nl,SLL,37,0,6,7,2,4,Frenkie de Jong,Frenkie,de Jong,279423,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.125675675675675,3159,17,21
+173,72,27,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,fr,SLL,33,0,28,31,1,27,Nabil Fekir,Nabil,Fekir,134893,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.120000000000002,2637,86,22
+179,70,28,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,9,0,5,5,0,3,José Campaña,José,Campaña,91214,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.115555555555555,747,13,23
+182,74,32,false,true,-MC-,M(C),Spain,es,SLL,36,0,9,13,0,5,Daniel Parejo,Daniel,Parejo,28186,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.104444444444443,3120,27,24
+185,77,28,false,true,-DR-MC-MR-,"D(R),M(CR)",Spain,gh,SLL,3,0,0,2,0,3,Thomas Partey,Thomas,Partey,238940,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.090000000000001,199,5,25
+0,0,19,false,true,,Forward,Spain,es,SLL,1,0,0,1,0,0,Jony Álamo,Jonatan,Carmona Álamo,402091,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.09,74,1,26
+180,76,24,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,32,0,17,10,0,10,Carlos Soler,Carlos,Soler,313542,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.052499999999998,2737,37,27
+181,78,24,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,33,0,27,19,1,16,Mikel Oyarzabal,Mikel,Oyarzabal,298839,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.051212121212122,2432,62,28
+190,70,21,false,true,-FW-,FW,Spain,se,SLL,34,0,42,21,3,18,Alexander Isak,Alexander,Isak,299254,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.025,2361,81,29
+180,71,28,false,true,-DR-,D(R),Spain,es,SLL,15,0,0,6,0,0,Rober Correa,Roberto Antonio,Correa Silva,113354,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.014,1140,6,30
+178,67,24,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,fr,SLL,30,0,23,17,0,15,Ousmane Dembélé,Ousmane,Dembélé,299513,Forward,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.012999999999999,1781,55,31
+178,70,22,false,true,-DC-,D(C),Spain,fr,SLL,34,0,6,12,0,3,Jules Koundé,Jules,Koundé,301019,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.005000000000001,2976,21,32
+183,76,33,false,true,-DMC-,DMC,Spain,br,SLL,31,0,4,1,0,1,Fernando,Fernando Francisco,Reges,31958,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,7.002258064516129,2547,6,33
+170,68,32,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,35,0,10,15,1,2,Jordi Alba,Jordi,Alba,44288,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.999142857142855,3030,27,34
+173,67,35,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,21,0,3,12,0,5,David Silva,David,Silva,14102,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.992380952380951,1408,20,35
+181,79,22,false,true,-DR-MR-,"D(R),M(R)",Spain,br,SLL,34,0,3,4,0,4,Emerson,Emerson Aparecido,Leite de Souza Junior,328512,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.985588235294115,2993,11,36
+175,60,20,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,28,0,16,14,1,10,Bryan Gil,Bryan,Gil,368519,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.964642857142858,2273,40,37
+179,70,20,false,true,-DL-,D(L),Spain,,SLL,1,0,0,0,0,0,Manu Sánchez,Manuel,Sánchez,374813,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.96,50,0,38
+0,0,20,false,true,,Midfielder,Spain,,SLL,1,0,0,0,0,0,Sergio Barcia,Sergio,Barcia,405801,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.96,90,0,39
+184,82,35,false,true,-DC-DR-,D(CR),Spain,es,SLL,15,0,6,8,0,3,Sergio Ramos,Sergio,Ramos,9909,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.957333333333334,1277,17,40
+176,65,30,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,31,0,13,17,1,17,Sergio Canales,Sergio,Canales,44189,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.952580645161289,2502,47,41
+185,78,27,false,true,-DMC-,DMC,Spain,ar,SLL,35,0,9,12,1,9,Guido Rodríguez,Guido,Rodríguez,303876,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.950857142857145,2873,30,42
+186,79,31,false,true,-FW-,FW,Spain,es,SLL,37,0,34,41,2,12,Kike García,Enrique,García Martínez,79840,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.950810810810813,3105,87,43
+171,70,26,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,ar,SLL,38,0,23,18,2,11,Ángel Correa,Ángel,Correa,127604,Forward,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.939473684210526,2412,52,44
+173,73,29,false,true,-DR-,D(R),Spain,es,SLL,13,0,2,2,0,5,Daniel Carvajal,Daniel,Carvajal,106883,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.931538461538461,952,9,45
+187,84,26,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,ar,SLL,34,0,21,33,1,15,Lucas Ocampos,Lucas,Ocampos,115587,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.926764705882355,2648,69,46
+187,81,30,false,true,-DC-,D(C),Spain,me,SLL,33,0,2,3,0,2,Stefan Savic,Stefan,Savic,77564,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.912424242424244,2954,7,47
+176,77,29,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,37,0,7,3,0,7,Koke,Jorge,Resurrección,80764,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.9021621621621625,3026,17,48
+186,91,24,false,true,-FW-,FW,Spain,uy,SLL,31,0,25,14,1,15,Maximiliano Gómez,Maximiliano,Gómez,344119,Forward,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.901612903225807,2699,54,49
+177,70,27,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,34,0,17,19,0,12,Suso,Jesús,Fernández Saez,105591,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.885,2234,48,50
+172,60,35,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,34,0,2,9,0,4,Jesús Navas,Jesús,Navas,9446,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.881176470588237,2836,15,51
+189,76,32,false,true,-DMC-,DMC,Spain,es,SLL,36,0,1,1,0,1,Sergio Busquets,Sergio,Busquets,44721,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.877499999999999,2530,3,52
+185,78,25,false,true,-DC-DMC-,"D(C),DMC",Spain,pe,SLL,32,0,5,9,0,3,Renato Tapia,Renato,Tapia,136987,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.8759375,2710,17,53
+189,73,24,false,true,-FW-,FW,Spain,ma,SLL,38,0,29,39,2,10,Youssef En-Nesyri,Youssef,En-Nesyri,323547,Forward,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.873947368421055,2314,78,54
+188,87,28,false,true,-GK-,GK,Spain,si,SLL,38,0,0,0,0,0,Jan Oblak,Jan,Oblak,76662,Goalkeeper,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.869736842105262,3420,0,55
+181,77,25,false,true,-AML-AMR-FW-,"AM(LR),FW",Spain,es,SLL,34,0,22,19,1,4,Santi Mina,Santiago,Mina Lorenzo,125838,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.867647058823528,2423,45,56
+186,79,23,false,true,-DC-DR-,D(CR),Spain,br,SLL,14,0,3,7,0,2,Eder Militão,Éder Gabriel,Militão,337879,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.862857142857143,1134,12,57
+180,74,31,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,30,0,8,6,1,4,Fidel,Fidel,Chaves de la Torre,86809,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.862333333333333,2404,18,58
+175,74,25,false,true,-DMC-,DMC,Spain,uy,SLL,34,0,9,26,2,11,Mauro Arambarri,Mauro,Arambarri,303016,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.857941176470589,2990,46,59
+191,81,28,false,true,-DC-,D(C),Spain,fr,SLL,31,0,4,9,0,4,Raphael Varane,Raphael,Varane,93206,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.848064516129034,2717,17,60
+185,83,32,false,true,-GK-,GK,Spain,nl,SLL,10,0,0,0,0,0,Jasper Cillessen,Jasper,Cillessen,90811,Goalkeeper,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.843999999999999,900,0,61
+172,69,29,false,true,-DL-MC-ML-,"D(L),M(CL)",Spain,ar,SLL,30,0,2,9,0,7,Marcos Acuña,Marcos,Acuña,303729,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.842666666666667,2331,18,62
+180,73,26,false,true,-DL-ML-,"D(L),M(L)",Spain,fr,SLL,26,0,2,8,0,2,Ferland Mendy,Ferland,Mendy,296337,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.8415384615384625,2207,12,63
+185,72,27,false,true,-DC-,D(C),Spain,es,SLL,35,0,2,11,0,0,David García,David,García,240874,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.840285714285716,3150,13,64
+190,83,29,false,true,-DC-,D(C),Spain,ma,SLL,19,0,2,5,0,1,Jawad El Yamiq,Jawad,El Yamiq,328643,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.834210526315789,1377,8,65
+179,68,24,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,pt,SLL,31,0,15,19,1,17,Gonçalo Guedes,Gonçalo Manuel,Ganchinho Guedes,247995,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.832903225806453,2301,51,66
+171,63,25,false,true,-AMC-AML-AMR-,AM(CLR),Spain,fr,SLL,27,0,11,7,1,5,Thomas Lemar,Thomas,Lemar,132962,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.832222222222222,1376,23,67
+182,78,26,false,true,-DC-,D(C),Spain,es,SLL,23,0,1,4,0,5,Yeray Álvarez,Yeray,Álvarez,279839,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.82913043478261,1949,10,68
+175,73,25,false,true,-DL-DR-FW-MC-ML-MR-,"D(LR),M(CLR),FW",Spain,es,SLL,35,0,15,19,0,14,Alex Berenguer,Alejandro,Berenguer Remiro,238899,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.8279999999999985,2289,48,69
+175,65,34,false,true,-AMC-AML-,AM(CL),Spain,es,SLL,36,0,23,15,0,17,Nolito,Manuel,Agudo Durán,91267,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.827777777777778,2628,55,70
+186,76,26,false,true,-AMC-AML-AMR-,AM(CLR),Spain,be,SLL,27,0,13,9,0,10,Adnan Januzaj,Adnan,Januzaj,130334,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.8277777777777775,1011,32,71
+170,65,28,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,28,0,11,6,0,6,Iker Muniain,Iker,Muniain,77922,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.822499999999999,1955,23,72
+0,0,20,false,true,,Defender,Spain,,SLL,4,0,1,0,0,0,Carlos Domínguez,Carlos,Domínguez,415344,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.82,360,1,73
+184,74,26,false,true,-MC-,M(C),Spain,es,SLL,35,0,4,15,2,5,Joan Jordán,Joan,Jordán,238941,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.819714285714285,2424,24,74
+176,65,31,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,9,0,1,4,0,1,Sergio Escudero,Sergio,Escudero,89856,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.818888888888889,567,6,75
+185,72,30,false,true,-DC-DR-,D(CR),Spain,br,SLL,31,0,6,7,0,2,Gabriel Paulista,Gabriel Armando,de Abreu,76810,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.8187096774193545,2717,15,76
+189,89,30,false,true,-DC-,D(C),Spain,fr,SLL,34,0,6,13,1,4,Florian Lejeune,Florian,Lejeune,80758,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.817352941176472,3016,23,77
+186,77,32,false,true,-DC-,D(C),Spain,es,SLL,24,0,0,2,0,0,Aridane Hernández,Aridane,Hernández,93492,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.81125,2028,2,78
+181,74,32,false,true,-DL-DR-MC-ML-MR-,"D(LR),M(CLR)",Spain,dk,SLL,35,0,12,17,2,9,Daniel Wass,Daniel,Wass,27254,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.807428571428571,2991,38,79
+175,67,26,false,true,-DMC-,DMC,Spain,es,SLL,16,0,3,6,0,1,Luis Milla,Luis,Milla,279320,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.8050000000000015,1259,10,80
+184,75,26,false,true,-DC-DL-,D(CL),Spain,es,SLL,31,0,5,10,0,3,Mario Hermoso,Mario,Hermoso,344156,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.798064516129033,2584,18,81
+180,71,27,false,true,-DC-DR-,D(CR),Spain,es,SLL,23,0,1,2,0,2,Aritz Elustondo,Aritz,Elustondo,256864,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.797391304347825,1887,5,82
+194,85,34,false,true,-DC-,D(C),Spain,es,SLL,19,0,2,5,0,2,Gerard Piqué,Gerard,Piqué,12712,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.795263157894736,1486,9,83
+184,78,23,false,true,-MC-,M(C),Spain,ve,SLL,32,0,7,18,0,8,Yangel Herrera,Yangel,Herrera,318505,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.794999999999998,2314,33,84
+190,77,26,false,true,-DMC-,DMC,Spain,es,SLL,25,0,8,6,0,3,Lucas Torró,Lucas,Torró,249960,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.791599999999999,1547,17,85
+190,75,29,false,true,-FW-,FW,Spain,hr,SLL,30,0,22,16,1,9,Ante Budimir,Ante,Budimir,98126,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.79,1622,47,86
+184,75,24,false,true,-GK-,GK,Spain,es,SLL,1,0,0,0,0,0,Antonio Sivera,Antonio,Sivera,141044,Goalkeeper,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.79,72,0,87
+172,68,29,false,true,-MC-ML-MR-,M(CLR),Spain,br,SLL,12,0,10,11,2,7,Philippe Coutinho,Philippe,Coutinho Correia,80767,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.785833333333333,657,28,88
+180,76,31,false,true,-DC-DL-DR-,D(CLR),Spain,es,SLL,24,0,3,8,0,0,Nacho,Jose Ignacio,Fernandez Iglesias,106875,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.783333333333332,2000,11,89
+182,78,22,false,true,-MC-ML-MR-,M(CLR),Spain,uy,SLL,24,0,8,9,0,5,Federico Valverde,Federico,Valverde,344644,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7825,1333,22,90
+171,72,27,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,37,0,8,17,1,5,Rubén García,Rubén,García,119189,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.780810810810809,2739,30,91
+185,80,26,false,true,-DC-DR-,D(CR),Spain,uy,SLL,21,0,5,7,0,2,José Giménez,José,Giménez,135914,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.778095238095237,1766,14,92
+172,70,23,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,25,0,5,3,0,3,Pablo Maffeo,Pablo,Maffeo,294848,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7776,1977,11,93
+199,91,29,false,true,-GK-,GK,Spain,be,SLL,38,0,0,0,0,0,Thibaut Courtois,Thibaut,Courtois,73798,Goalkeeper,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.777368421052632,3420,0,94
+182,74,30,false,true,-DC-DR-MR-,"D(CR),M(R)",Spain,es,SLL,25,0,3,10,1,3,Mario Gaspar,Mario Gaspar,Pérez Martínez,79909,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.773199999999998,1852,16,95
+184,75,22,false,true,-DC-DR-,D(CR),Spain,es,SLL,27,0,6,5,0,1,Óscar Mingueza,Óscar,Mingueza,397469,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.764814814814815,1907,12,96
+175,71,25,false,true,-AML-AMR-FW-,"AM(LR),FW",Spain,es,SLL,20,0,18,8,1,4,Sandro Ramírez,Sandro,Ramírez,135242,Forward,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7639999999999985,1294,30,97
+170,69,28,false,true,-DR-,D(R),Spain,es,SLL,32,0,3,6,0,2,Iza,Isaac,Carcelén,400046,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.763749999999999,2587,11,98
+186,80,24,false,true,-DC-,D(C),Spain,es,SLL,25,0,5,6,0,1,Unai Núñez,Unai,Núñez,344200,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.76,2108,12,99
+173,69,30,false,true,-DC-DR-MR-,"D(CR),M(R)",Spain,es,SLL,31,0,11,5,0,4,Hugo Mallo,Hugo,Mallo,79929,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.759032258064515,2604,20,100
+191,80,24,false,true,-DC-,D(C),Spain,es,SLL,33,0,3,5,1,0,Pau Torres,Pau,Torres,344259,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.75878787878788,2970,8,101
+192,83,32,false,true,-DC-,D(C),Spain,gr,SLL,36,0,8,20,2,1,Dimitrios Siovas,Dimitrios,Siovas,79755,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.758055555555554,3073,29,102
+167,68,33,false,true,-FW-MC-ML-,"M(CL),FW",Spain,ar,SLL,18,0,10,4,0,4,Papu Gómez,Alejandro,Gómez,22546,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.756666666666667,917,18,103
+184,80,38,false,true,-GK-,GK,Spain,cl,SLL,20,0,0,0,0,0,Claudio Bravo,Claudio,Bravo,14199,Goalkeeper,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7555000000000005,1800,0,104
+184,76,26,false,true,-DC-DL-MC-ML-MR-,"D(CL),M(CLR)",Spain,es,SLL,33,0,13,13,1,7,Saúl Ñíguez,Saúl,Ñíguez,112161,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.755151515151516,2034,33,105
+179,68,28,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,23,0,3,7,0,1,Álex Moreno,Alexandre,Moreno Lopera,135374,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.752608695652174,1787,11,106
+174,60,18,false,true,-AMC-,AM(C),Spain,es,SLL,37,0,9,9,0,7,Pedri,Pedro,González,402197,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.75108108108108,2430,25,107
+187,76,24,false,true,-AMC-AMR-FW-,"AM(CR),FW",Spain,es,SLL,34,0,22,18,1,10,Brais Méndez,Brais,Méndez,344542,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7497058823529406,2679,50,108
+186,71,35,false,true,-FW-,FW,Spain,es,SLL,35,0,21,24,2,3,Álvaro Negredo,Álvaro,Negredo,23757,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.74857142857143,2217,48,109
+192,82,28,false,true,-GK-,GK,Spain,es,SLL,33,0,0,0,0,0,Sergio Herrera,Sergio,Herrera,381674,Goalkeeper,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.74787878787879,2957,0,110
+170,63,33,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,37,0,12,5,0,9,David Ferreiro,David,Ferreiro,109571,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.743783783783783,2543,26,111
+188,79,22,false,true,-DC-,D(C),Spain,uy,SLL,24,0,4,6,0,2,Ronald Araujo,Ronald,Araujo,384711,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7425,1509,12,112
+187,81,29,false,true,-DC-,D(C),Spain,pt,SLL,31,0,3,8,0,2,Paulo Oliveira,Paulo André,Rodrigues de Oliveira,83475,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.741935483870967,2640,13,113
+177,74,30,false,true,-AML-AMR-,AM(LR),Spain,,SLL,27,0,6,10,1,12,Alberto Perea,Alberto,Perea,93543,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7348148148148175,1552,28,114
+176,69,27,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,35,0,3,9,0,4,Denis Suárez,Denis,Suárez,106525,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.734285714285715,2864,16,115
+181,70,21,false,true,-AMC-AML-FW-,"AM(CL),FW",Spain,pt,SLL,31,0,16,15,2,8,João Félix,João Félix,Sequeira,362431,Forward,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.734193548387099,1570,39,116
+178,68,29,false,true,-DR-MC-MR-,"D(R),M(CR)",Spain,es,SLL,15,0,1,2,0,2,Sergi Roberto,Sergi,Roberto,90782,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.732,947,5,117
+170,68,28,false,true,-AML-AMR-,AM(LR),Spain,ve,SLL,32,0,21,14,0,13,Darwin Machís,Darwin,Machís,107567,Forward,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.731874999999998,2035,48,118
+181,79,31,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,23,0,6,6,0,4,Yuri Berchiche,Yuri,Berchiche,56057,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.731739130434784,1685,16,119
+191,86,24,false,true,-FW-,FW,Spain,es,SLL,38,0,46,58,2,16,Rafa Mir,Rafael,Mir Vicente,300369,Forward,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.731578947368422,2880,120,120
+185,73,29,false,true,-AMR-FW-,"AM(R),FW",Spain,es,SLL,16,0,5,2,0,2,Rubén Sobrino,Rubén,Sobrino,323250,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7281249999999995,1115,9,121
+190,83,32,false,true,-DC-,D(C),Spain,br,SLL,31,0,2,9,0,1,Felipe,Felipe Augusto,de Almeida Monteiro,102173,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.726129032258066,2053,12,122
+176,0,20,false,true,,Midfielder,Spain,es,SLL,4,0,0,1,0,1,Antonio Blanco,Antonio,Blanco,409467,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.725,218,2,123
+0,0,22,false,true,,Defender,Spain,es,SLL,10,0,1,3,0,0,Juan Iglesias,Juan Antonio,Iglesias,408735,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.725,605,4,124
+184,78,23,false,true,-DL-ML-,"D(L),M(L)",Spain,uy,SLL,31,0,4,9,0,6,Mathías Olivera,Mathías,Olivera,347178,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.720645161290323,2619,19,125
+178,68,24,false,true,-MC-,M(C),Spain,es,SLL,31,0,9,22,0,12,Edu Expósito,Eduardo,Expósito,335696,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.719354838709678,2461,43,126
+172,66,26,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,33,0,5,15,0,4,José Gayà,José,Gayà,119817,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.718787878787879,2848,24,127
+179,69,23,false,true,-DC-DMC-DR-,"D(CR),DMC",Spain,ar,SLL,16,0,0,1,0,0,Juan Foyth,Juan,Foyth,335107,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.716874999999999,1170,1,128
+173,68,26,false,true,-DL-ML-,"D(L),M(L)",Spain,uy,SLL,18,0,2,7,1,2,Lucas Olaza,Lucas,Olaza,146763,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.715,1618,11,129
+185,73,30,false,true,-GK-,GK,Spain,es,SLL,28,0,0,0,0,0,Jaume Doménech,Jaume,Doménech,136810,Goalkeeper,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.714642857142857,2520,0,130
+180,75,25,false,true,-DC-DL-,D(CL),Spain,es,SLL,31,0,2,10,0,2,Rubén Duarte,Rubén,Duarte,261286,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.710000000000003,2551,14,131
+192,78,30,false,true,-GK-,GK,Spain,ma,SLL,33,0,1,0,0,0,Yassine Bounou,Yassine,Bounou,136220,Goalkeeper,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.709696969696969,2970,1,132
+173,68,23,false,true,-DL-ML-,"D(L),M(L)",Spain,br,SLL,23,0,3,5,0,3,Renan Lodi,Renan Augusto,Lodi dos Santos,326646,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.709565217391304,1126,11,133
+172,71,29,false,true,-DL-,D(L),Spain,uy,SLL,32,0,4,4,0,0,Alfonso Espino,Alfonso,Espino,143655,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7090625,2609,8,134
+174,75,33,false,true,-DL-ML-,"D(L),M(L)",Spain,br,SLL,16,0,0,9,1,3,Marcelo,Marcelo Vieira,Da Silva Junior,20241,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.7075000000000005,1052,12,135
+174,73,24,false,true,-DR-,D(R),Spain,es,SLL,32,0,2,5,0,2,Andoni Gorosabel,Andoni,Gorosabel,345908,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.706250000000001,2391,9,136
+176,69,22,false,true,-DR-,D(R),Spain,,SLL,29,0,2,6,1,0,Thierry Correia,Thierry Rendall,Correia,367180,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.701379310344827,2140,8,137
+190,80,33,false,true,-MC-,M(C),Spain,es,SLL,13,0,0,2,0,1,Vicente Iborra,Vicente,Iborra,34052,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.69923076923077,928,3,138
+172,66,22,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,37,0,8,10,0,8,Marc Cucurella,Marc,Cucurella,363496,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.695405405405404,3250,26,139
+170,75,23,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,20,0,10,18,0,8,Javier Ontiveros,Javier,Ontiveros,300365,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.6935,915,36,140
+180,68,19,false,true,,Defender,Spain,,SLL,6,0,0,0,0,0,Miguel Gutiérrez,Miguel,Gutiérrez,395788,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.691666666666666,314,0,141
+185,79,28,false,true,-DC-,D(C),Spain,br,SLL,33,0,5,9,0,1,Diego Carlos,Diego Carlos,Santos Silva,134984,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.688787878787879,2791,15,142
+173,72,24,false,true,-MR-,M(R),Spain,es,SLL,37,0,11,12,1,3,Jorge de Frutos,Jorge,de Frutos,386230,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.685945945945947,2187,26,143
+180,70,33,false,true,-DR-FW-MC-ML-MR-,"D(R),M(CLR),FW",Spain,es,SLL,38,0,27,20,0,11,José Luis Morales,José Luis,Morales,135321,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.683684210526316,2455,58,144
+187,80,24,false,true,-DC-,D(C),Spain,fr,SLL,33,0,1,15,0,2,Robin Le Normand,Robin,Le Normand,367008,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.682727272727273,2748,18,145
+179,75,31,false,true,-MC-,M(C),Spain,es,SLL,6,0,0,0,0,0,Asier Illarramendi,Asier,Illarramendi,87094,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.6816666666666675,343,0,146
+185,71,25,false,true,-GK-,GK,Spain,es,SLL,5,0,0,0,0,0,Aarón Escandell,Aarón,Escandell,141073,Goalkeeper,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.68,450,0,147
+193,81,23,false,true,-DMC-,DMC,Spain,rs,SLL,31,0,10,16,1,9,Uros Racic,Uros,Racic,346183,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.679677419354839,2191,35,148
+189,80,32,false,true,-DC-MC-ML-,"D(C),M(CL)",Spain,fr,SLL,16,0,3,4,0,1,Etienne Capoue,Etienne,Capoue,33590,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.67875,1195,8,149
+182,76,25,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,35,0,11,14,2,14,Marco Asensio,Marco,Asensio,137467,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.673714285714286,1876,39,150
+184,78,29,false,true,-DC-DL-DR-,D(CLR),Spain,dz,SLL,28,0,7,1,0,0,Aïssa Mandi,Aïssa,Mandi,90115,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.67142857142857,2394,8,151
+180,69,33,false,true,-DMC-,DMC,Spain,es,SLL,22,0,4,11,0,2,José Mari,José María,Martín-Bejarano Serrano,118481,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.668636363636364,1462,17,152
+187,72,29,false,true,-DC-,D(C),Spain,tg,SLL,34,0,0,2,0,0,Djené Dakonam,Djené,Dakonam,332990,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.6679411764705865,2945,2,153
+179,81,25,false,true,-AML-FW-,"AM(L),FW",Spain,ar,SLL,34,0,22,21,1,15,Lucas Boyé,Lucas,Boyé,303800,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.664705882352941,2713,58,154
+179,72,35,false,true,-DC-DL-ML-,"D(CL),M(L)",Spain,es,SLL,26,0,1,8,0,3,Nacho Monreal,Ignacio,Monreal,23072,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.663846153846153,2082,12,155
+175,74,30,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,be,SLL,14,0,5,4,0,1,Eden Hazard,Eden,Hazard,33404,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.661428571428572,533,10,156
+178,75,29,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,35,0,8,10,0,12,Manu Trigueros,Manuel,Trigueros Muñoz,102234,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.660857142857144,2540,30,157
+191,86,23,false,true,,Defender,Spain,,SLL,2,0,0,1,0,0,Miguel Ángel Rubio,Miguel Ángel,Rubio,357118,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.66,135,1,158
+180,74,32,false,true,-DC-DL-ML-,"D(CL),M(L)",Spain,es,SLL,8,0,3,0,0,0,Raúl García,Raúl,García,83784,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.66,502,3,159
+170,65,29,false,true,-DR-ML-MR-,"D(R),M(LR)",Spain,es,SLL,19,0,2,2,0,2,Rubén Peña,Rubén,Peña,118479,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.657368421052631,1113,6,160
+191,87,30,false,true,-FW-,FW,Spain,ar,SLL,21,0,8,12,1,6,Guido Carrillo,Guido,Carrillo,125379,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.656666666666666,1001,26,161
+186,78,27,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,38,0,17,18,3,18,Iñaki Williams,Iñaki,Williams,255182,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.654473684210526,2393,53,162
+183,77,27,false,true,-AMC-FW-,"AM(C),FW",Spain,es,SLL,29,0,9,12,0,6,Gonzalo Melero,Gonzalo,Melero,261698,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.652068965517241,1857,27,163
+178,76,34,false,true,-DC-DL-DR-,D(CLR),Spain,es,SLL,34,0,2,16,1,9,Anaitz Arbilla,Anaitz,Arbilla,91438,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.648823529411764,2803,27,164
+180,70,29,false,true,-GK-,GK,Spain,es,SLL,30,0,0,0,0,0,Edgar Badia,Edgar,Badia,109930,Goalkeeper,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.647333333333333,2700,0,165
+182,77,25,false,true,-DL-ML-MR-,"D(L),M(LR)",Spain,br,SLL,28,0,11,18,1,8,Kenedy,Robert Kenedy,Nunes do Nascimento,132838,Forward,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.646071428571429,1479,37,166
+179,75,39,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,es,SLL,27,0,5,1,0,4,Joaquín,Joaquín,Sánchez Rodríguez,3283,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.645185185185186,1298,10,167
+184,73,25,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,29,0,8,7,0,7,Alfonso Pedraza,Alfonso,Pedraza,276489,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.64448275862069,2102,22,168
+185,80,29,false,true,-DC-DR-,D(CR),Spain,es,SLL,9,0,0,0,0,1,Sergi Gómez,Sergi,Gómez,90778,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.642222222222221,723,1,169
+185,75,23,false,true,-GK-,GK,Spain,es,SLL,22,0,0,0,0,1,Álvaro Fernández,Álvaro,Fernández,328315,Goalkeeper,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.641363636363636,1980,1,170
+175,75,29,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,28,0,6,5,0,1,Ander Capa,Ander,Capa,130377,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.641071428571427,2141,12,171
+174,64,20,false,true,-AMC-AML-AMR-,AM(CLR),Spain,br,SLL,22,0,5,10,0,10,Rodrygo,Rodrygo,Silva de Goes,347862,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.640454545454546,979,25,172
+184,0,21,false,true,,Defender,Spain,,SLL,2,0,0,0,0,0,Victor Chust,Victor,Chust,402862,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.640000000000001,94,0,173
+173,68,26,false,true,-DL-ML-,"D(L),M(L)",Spain,uy,SLL,14,0,3,7,0,1,Lucas Olaza,Lucas,Olaza,146763,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.63857142857143,1260,11,174
+184,70,30,false,true,-DC-DMC-DR-,"D(CR),DMC",Spain,es,SLL,19,0,4,4,0,2,Marc Bartra,Marc,Bartra,83686,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.638421052631579,1695,10,175
+181,72,27,false,true,-FW-,FW,Spain,ar,SLL,25,0,16,18,1,13,Jonathan Calleri,Jonathan,Calleri,133445,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.637599999999997,1559,47,176
+182,72,29,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,35,0,4,1,0,1,Carlos Clerc,Carlos,Clerc,106595,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.636857142857142,2777,6,177
+182,76,30,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,25,0,7,22,0,6,Rubén Rochina,Rubén,Rochina,91273,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.636400000000001,1407,35,178
+190,84,31,false,true,-GK-,GK,Spain,br,SLL,7,0,0,0,0,0,Neto,Norberto,Murara Neto,76202,Goalkeeper,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.635714285714286,630,0,179
+180,82,32,false,true,-AMC-AMR-FW-,"AM(CR),FW",Spain,es,SLL,28,0,13,11,1,8,Lucas Pérez,Lucas,Pérez,135663,Forward,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.634285714285715,1769,32,180
+175,62,20,false,true,-DR-MR-,"D(R),M(R)",Spain,us,SLL,30,0,5,5,1,4,Sergiño Dest,Sergiño,Dest,379205,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.633333333333334,1919,14,181
+179,70,28,false,true,-DL-DR-,D(LR),Spain,gq,SLL,13,0,1,1,0,0,Carlos Akapo,Carlos,Akapo,139639,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.632307692307692,867,2,182
+185,79,21,false,true,-DL-,D(L),Spain,es,SLL,22,0,3,4,0,3,Juan Miranda,Juan,Miranda,361993,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.631818181818182,1653,10,183
+183,0,18,false,true,,Midfielder,Spain,,SLL,14,0,3,7,0,3,Ilaix Moriba,Moriba,Kourouma Kourouma,409030,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.630714285714286,538,13,184
+185,80,32,false,true,-DC-,D(C),Spain,es,SLL,33,0,4,7,0,0,Gonzalo Verdú,Gonzalo,Verdú,101130,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.62939393939394,2945,11,185
+187,85,29,false,true,-GK-,GK,Spain,de,SLL,31,0,0,1,0,0,Marc-André ter Stegen,Marc-André,ter Stegen,80774,Goalkeeper,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.629354838709678,2790,1,186
+184,95,32,false,true,-DC-,D(C),Spain,es,SLL,27,0,4,0,0,0,Víctor Ruiz,Víctor,Ruiz,79558,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.627407407407407,2158,4,187
+176,66,25,false,true,-DR-,D(R),Spain,es,SLL,13,0,2,0,0,1,Álvaro Odriozola,Álvaro,Odriozola,317354,Defender,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.626153846153845,830,3,188
+186,79,30,false,true,-DC-DMC-,"D(C),DMC",Spain,ar,SLL,10,0,1,3,0,0,Ramiro Funes Mori,Ramiro,Funes Mori,121454,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.625,726,4,189
+176,73,20,false,true,-AML-,AM(L),Spain,br,SLL,35,0,13,17,1,10,Vinícius Júnior,Vinicius José,Paixão de Oliveira Júnior,337782,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.622,1975,40,190
+172,74,32,false,true,-DMC-,DMC,Spain,es,SLL,25,0,5,17,0,4,Roque Mesa,Roque,Mesa,108176,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.621599999999998,1772,26,191
+180,74,22,false,true,-DMC-,DMC,Spain,es,SLL,31,0,1,4,0,2,Martín Zubimendi,Martín,Zubimendi,372424,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.620645161290321,1873,7,192
+180,70,25,false,true,-FW-,FW,Spain,py,SLL,16,0,12,10,1,3,Antonio Sanabria,Antonio,Sanabria,135057,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.617499999999998,936,25,193
+177,70,31,false,true,-DR-ML-MR-,"D(R),M(LR)",Spain,es,SLL,12,0,0,1,0,0,Aleix Vidal,Aleix,Vidal,82630,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.614166666666666,590,1,194
+180,72,30,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,36,0,10,23,0,7,Óscar Plano,Óscar,Plano,141533,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.61388888888889,2530,40,195
+173,68,20,false,true,-AMC-FW-,"AM(C),FW",Spain,kr,SLL,24,0,7,9,0,9,Lee Kang-In,Kang-In,Lee,367780,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.613333333333333,1267,25,196
+189,78,26,false,true,-DMC-,DMC,Spain,rs,SLL,35,0,5,7,0,5,Nemanja Maksimovic,Nemanja,Maksimovic,296367,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.607714285714286,2745,17,197
+176,71,27,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,35,0,11,5,0,7,Moi Gómez,Moisés,Gómez Bardonado,101238,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.603999999999999,2573,23,198
+182,72,28,false,true,-AMC-AML-,AM(CL),Spain,es,SLL,25,0,4,4,0,2,Álex Fernández,Alejandro,Fernández Iglesias,95551,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.6036,1950,10,199
+180,75,26,false,true,-DR-,D(R),Spain,es,SLL,34,0,2,7,0,1,Nacho Vidal,Ignacio,Vidal Miralles,335790,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.60235294117647,2343,10,200
+190,72,25,false,true,-DC-DMC-,"D(C),DMC",Spain,es,SLL,25,0,3,4,0,1,Joaquín Fernández,Joaquín,Fernández,365371,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.601600000000002,2076,8,201
+181,76,29,false,true,-DL-DR-MR-,"D(LR),M(R)",Spain,hr,SLL,9,0,0,0,0,0,Sime Vrsaljko,Sime,Vrsaljko,77059,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.601111111111111,521,0,202
+180,76,24,false,true,-AMC-AMR-,AM(CR),Spain,es,SLL,30,0,3,13,1,3,Tete Morente,José Antonio,Morente Oliva,402087,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5969999999999995,2027,19,203
+176,73,22,false,true,-AML-AMR-FW-,"AM(LR),FW",Spain,,SLL,23,0,11,11,0,6,Cucho Hernández,Juan Camilo,Hernández Suárez,362501,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.59695652173913,1475,28,204
+181,83,25,false,true,-DR-MR-,"D(R),M(R)",Spain,ch,SLL,19,0,1,0,0,2,Saidy Janko,Saidy,Janko,261441,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.596842105263159,1224,3,205
+182,78,29,false,true,-DC-,D(C),Spain,co,SLL,31,0,3,3,0,3,Jeison Murillo,Jeison,Murillo,109565,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.59483870967742,2700,9,206
+184,78,33,false,true,-MC-,M(C),Spain,hr,SLL,37,0,10,21,1,9,Ivan Rakitic,Ivan,Rakitic,22732,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.594324324324325,2243,40,207
+179,74,30,false,true,-FW-,FW,Spain,es,SLL,33,0,23,17,0,6,Roger Martí,Roger,Martí,109811,Forward,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.590909090909091,2209,46,208
+184,83,34,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,es,SLL,34,0,14,22,1,11,Raúl García,Raúl,García,11386,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.589411764705884,1744,47,209
+185,80,31,false,true,-MC-,M(C),Spain,mx,SLL,16,0,1,5,1,1,Héctor Herrera,Héctor,Herrera,103476,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.58875,681,7,210
+182,76,30,false,true,-DC-,D(C),Spain,es,SLL,28,0,7,10,0,1,Íñigo Martínez,Íñigo,Martínez,106885,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.586785714285717,2520,18,211
+186,81,26,false,true,-DC-,D(C),Spain,fr,SLL,33,0,5,5,0,1,Clément Lenglet,Clément,Lenglet,236511,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.586363636363635,2478,11,212
+187,86,28,false,true,-FW-,FW,Spain,es,SLL,28,0,16,12,0,10,Borja Iglesias,Borja,Iglesias,259042,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.584642857142859,1414,38,213
+176,75,31,false,true,-DC-DL-DR-,D(CLR),Spain,es,SLL,31,0,3,4,0,6,Ximo Navarro,Joaquín,Navarro Jiménez,100881,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.583225806451613,2381,13,214
+178,62,21,false,true,-DC-,D(C),Spain,,SLL,25,0,1,6,0,0,Hugo Guillamón,Hugo,Guillamón,392686,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5828,1991,7,215
+178,68,24,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,19,0,1,2,0,2,Aarón Martín,Aarón,Martín,323546,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.582631578947369,1540,5,216
+189,93,29,false,true,-FW-,FW,Spain,br,SLL,13,0,9,4,0,1,Willian José,Willian José,Da Silva,77636,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.582307692307693,689,14,217
+190,80,29,false,true,-DC-,D(C),Spain,ar,SLL,14,0,5,1,0,0,Esteban Burgos,Esteban,Burgos,239815,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.581428571428572,1116,6,218
+181,77,31,false,true,-FW-,FW,Spain,es,SLL,27,0,15,19,2,11,Sergi Enrich,Sergi,Enrich,83358,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.58,1402,45,219
+186,80,24,false,true,-GK-,GK,Spain,,SLL,8,0,0,0,0,0,Daniel Cárdenas,Daniel,Cárdenas,386261,Goalkeeper,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.57875,720,0,220
+186,72,30,false,true,-DC-DR-,D(CR),Spain,es,SLL,33,0,4,7,0,6,Jorge Pulido,Jorge,Pulido,93655,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.571818181818182,2886,17,221
+178,69,24,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,33,0,12,6,0,4,Kike Barja,Enrique,Barja Alfonso,336251,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.571818181818181,1435,22,222
+187,74,35,false,true,-DC-,D(C),Spain,es,SLL,35,0,1,7,0,0,Raúl Albiol,Raúl,Albiol,12575,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.571142857142858,3119,8,223
+174,67,28,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,27,0,7,5,0,2,Pablo Hervías,Pablo,Hervías,121734,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.571111111111112,1193,14,224
+180,79,24,false,true,-DC-DMC-,"D(C),DMC",Spain,es,SLL,24,0,3,5,0,1,Igor Zubeldia,Igor,Zubeldia,315566,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.569583333333333,1958,9,225
+184,81,25,false,true,-DC-DL-,D(CL),Spain,es,SLL,29,0,0,4,0,2,Josema,José Manuel,Sánchez Guillén,317850,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.569310344827586,1968,6,226
+189,87,32,false,true,-GK-,GK,Spain,es,SLL,36,0,0,0,0,0,Sergio Asenjo,Sergio,Asenjo,32258,Goalkeeper,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.568611111111112,3240,0,227
+175,74,32,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,26,0,0,7,0,3,Jorge Miramón,Jorge,Miramón,140767,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.568461538461539,1734,10,228
+175,72,23,false,true,-DL-,D(L),Spain,es,SLL,16,0,1,3,0,0,Aihen Muñoz,Aihen,Muñoz,367583,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.566875000000001,1210,4,229
+186,81,32,false,true,-DC-DMC-,"D(C),DMC",Spain,cr,SLL,29,0,3,3,0,1,Óscar Duarte,Óscar,Duarte,89851,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.564827586206896,2063,7,230
+172,70,22,false,true,-AMC-AMR-,AM(CR),Spain,ng,SLL,28,0,11,12,0,8,Samuel Chukwueze,Samuel,Chukwueze,363665,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.564285714285712,1363,31,231
+172,67,25,false,true,-MC-ML-,M(CL),Spain,mk,SLL,26,0,13,16,0,7,Enis Bardhi,Enis,Bardhi,275687,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.563461538461538,1686,36,232
+180,80,29,false,true,-AMC-AMR-,AM(CR),Spain,ar,SLL,16,0,3,2,1,0,Augusto Solari,Augusto,Solari,121737,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.563124999999999,478,5,233
+175,68,31,false,true,-MR-,M(R),Spain,es,SLL,33,0,8,1,0,6,Josan,José Antonio,Ferrández Pomares,273453,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.561212121212121,1935,15,234
+178,69,25,false,true,-MC-,M(C),Spain,fr,SLL,35,0,7,10,0,7,Mickaël Malsa,Mickaël,Malsa,137436,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.560285714285714,2342,24,235
+174,69,24,false,true,-DR-,D(R),Spain,es,SLL,2,0,1,1,0,0,Álvaro Tejero,Álvaro,Tejero,312851,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5600000000000005,109,2,236
+185,78,31,false,true,-DC-,D(C),Spain,es,SLL,28,0,5,7,0,2,Juan Cala,Juan,Torres Ruiz,34524,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.559642857142859,2275,14,237
+182,80,27,false,true,-DC-DR-,D(CR),Spain,pt,SLL,32,0,2,0,0,3,Rúben Vezo,Rúben Miguel,Nunes Vezo,130356,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.555937500000001,2312,5,238
+186,84,26,false,true,-DC-DL-,D(CL),Spain,nl,SLL,11,0,0,2,0,0,Karim Rekik,Karim,Rekik,106530,Defender,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5554545454545465,651,2,239
+188,72,39,false,true,-FW-,FW,Spain,es,SLL,33,0,12,7,1,5,Jorge Molina,Jorge,Molina,31151,Forward,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.552727272727274,1614,24,240
+178,70,26,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,33,0,3,5,1,2,Óliver Torres,Óliver,Torres,113708,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.552727272727273,1397,10,241
+180,73,23,false,true,-AMC-AMR-,AM(CR),Spain,es,SLL,22,0,8,10,0,12,Carles Aleñá,Carles,Aleñá,303268,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.549545454545456,1369,30,242
+172,63,26,false,true,-AMC-AML-,AM(CL),Spain,es,SLL,21,0,5,5,0,5,Toni Villa,Laureano Antonio,Villa Suárez,362355,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.54952380952381,970,15,243
+183,76,23,false,true,-GK-,GK,Spain,es,SLL,21,0,0,0,0,0,Iván Villar,Iván,Villar,323350,Goalkeeper,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5495238095238095,1774,0,244
+185,74,23,false,true,-AML-FW-,"AM(L),FW",Spain,co,SLL,27,0,17,20,0,10,Luis Suárez,Luis,Suárez,402887,Forward,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5488888888888885,1670,47,245
+187,78,24,false,true,-FW-,FW,Spain,tr,SLL,28,0,9,24,1,5,Enes Ünal,Enes,Ünal,134695,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.548214285714287,1322,38,246
+175,72,27,false,true,-AMR-FW-,"AM(R),FW",Spain,es,SLL,27,0,20,8,0,9,Paco Alcácer,Francisco,Alcácer,95953,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.547777777777776,1557,37,247
+182,75,27,false,true,-DC-DL-,D(CL),Spain,fr,SLL,13,0,1,1,0,0,Samuel Umtiti,Samuel,Umtiti,89931,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.545384615384616,643,2,248
+170,68,25,false,true,-MC-MR-,M(CR),Spain,es,SLL,26,0,10,6,0,9,Unai López,Unai,López,236575,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.545384615384616,1425,25,249
+176,74,25,false,true,-DR-ML-MR-,"D(R),M(LR)",Spain,es,SLL,28,0,14,10,0,9,Aitor Ruibal,Aitor,Ruibal,349494,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.537857142857144,1606,33,250
+177,74,24,false,true,-MC-,M(C),Spain,es,SLL,36,0,6,13,0,8,Raúl Guti,José Raúl,Gutiérrez Parejo,402086,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.537777777777777,2876,27,251
+175,68,27,false,true,-AML-,AM(L),Spain,es,SLL,35,0,9,7,1,8,Luis Rioja,Luis,Rioja,381713,Forward,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5371428571428565,2100,24,252
+175,73,24,false,true,-MC-,M(C),Spain,es,SLL,29,0,9,10,1,5,Jaime Seoane,Jaime,Seoane,371330,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.535862068965519,2066,24,253
+184,78,24,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,7,0,1,0,0,0,Junior Firpo,Junior,Firpo,351252,Defender,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.535714285714285,286,1,254
+170,64,35,false,true,-AMC-AML-AMR-,AM(CLR),Spain,cl,SLL,30,0,16,8,0,6,Fabián Orellana,Fabián,Orellana,25714,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.535333333333333,2153,30,255
+183,81,30,false,true,-DMC-,DMC,Spain,es,SLL,30,0,3,20,0,5,Rubén Alcaraz,Rubén,Alcaraz,279711,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.534999999999999,2170,28,256
+175,73,23,false,true,-DL-,D(L),Spain,ec,SLL,25,0,5,4,0,1,Pervis Estupiñán,Pervis,Estupiñán,298694,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5344,1164,10,257
+182,78,28,false,true,-DC-DMC-,"D(C),DMC",Spain,dk,SLL,35,0,2,10,0,3,Jens Jonsson,Jens,Jonsson,283284,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.534285714285715,2629,15,258
+182,76,34,false,true,-DC-DR-MR-,"D(CR),M(R)",Spain,es,SLL,27,0,0,5,0,1,Antonio Barragán,Antonio,Barragán,14085,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.530370370370371,2239,6,259
+172,0,18,false,true,,Forward,Spain,,SLL,24,0,5,4,1,4,Yeremi Pino,Yeremi,Pino,403865,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.529166666666666,786,13,260
+178,65,29,false,true,-ML-MR-,M(LR),Spain,es,SLL,29,0,14,11,0,10,Cristian Tello,Cristian,Tello,91800,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.528275862068966,1282,35,261
+187,80,27,false,true,-DC-,D(C),Spain,es,SLL,20,0,0,2,0,1,Pablo Ínsua,Pablo,Ínsua,122063,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.527499999999999,1588,3,262
+180,77,35,false,true,-MC-,M(C),Spain,sn,SLL,33,0,9,11,0,8,Pape Diop,Papakouly,Diop,27384,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5260606060606055,2336,28,263
+175,69,25,false,true,-AML-AMR-FW-,"AM(LR),FW",Spain,es,SLL,24,0,12,12,1,7,Munir El Haddadi,Munir,El Haddadi,143158,Forward,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.525833333333334,839,31,264
+180,81,31,false,true,-DMC-,DMC,Spain,es,SLL,27,0,1,4,0,1,Dani García,Daniel,García Carrillo,127392,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.525555555555555,1922,6,265
+177,70,26,false,true,-DL-,D(L),Spain,pt,SLL,19,0,0,1,0,1,Rafa Soares,Luis Rafael,Soares Alves,302664,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.524210526315788,1131,2,266
+187,80,31,false,true,-FW-ML-MR-,"M(LR),FW",Spain,es,SLL,33,0,10,17,1,8,Edgar Méndez,Edgar,Méndez,141068,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5239393939393935,2105,35,267
+187,76,32,false,true,-DC-MC-,"D(C),M(C)",Spain,fr,SLL,25,0,1,3,0,0,Maxime Gonalons,Maxime,Gonalons,79560,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.518000000000001,1483,4,268
+187,82,34,false,true,-DC-,D(C),Spain,es,SLL,34,0,5,6,0,2,Germán Sánchez,Germán,Sánchez,381670,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.517352941176471,2638,13,269
+183,77,29,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,35,0,11,9,1,6,Antonio Puertas,José Antonio,Rodríguez Díaz,127802,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.514,2170,26,270
+188,83,32,false,true,-FW-,FW,Spain,es,SLL,7,0,3,1,0,1,Diego Costa,Diego,Da Silva Costa,24248,Forward,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.512857142857143,207,5,271
+191,79,26,false,true,-GK-,GK,Spain,es,SLL,38,0,0,0,0,0,Álex Remiro,Alejandro,Remiro,270504,Goalkeeper,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.512105263157895,3420,0,272
+181,72,33,false,true,-MC-,M(C),Spain,es,SLL,23,0,2,9,0,4,Ángel Montoro,Ángel,Montoro,32857,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.511739130434783,1371,15,273
+180,73,23,false,true,-DMC-,DMC,Spain,es,SLL,31,0,2,6,0,1,Ander Guevara,Ander,Guevara,344120,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.511612903225805,2088,9,274
+179,76,34,false,true,-DC-DL-DR-,D(CLR),Spain,ar,SLL,17,0,2,8,0,3,Facundo Roncaglia,Facundo,Roncaglia,38277,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5070588235294125,1236,13,275
+172,61,33,false,true,-DR-,D(R),Spain,uy,SLL,31,0,2,5,0,3,Damián Suárez,Damián,Suárez,83705,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5051612903225795,2440,10,276
+171,65,28,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,5,0,0,1,0,3,Alberto Moreno,Alberto,Moreno,113275,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5040000000000004,194,4,277
+184,72,28,false,true,-AMC-AML-FW-,"AM(CL),FW",Spain,es,SLL,32,0,11,13,2,6,Pere Milla,Pere,Milla,140772,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.501875,1987,30,278
+184,78,24,false,true,-FW-,FW,Spain,,SLL,23,0,12,13,3,7,Marcos de Sousa,Marcos André,de Sousa Mendonça,402185,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5013043478260855,1171,32,279
+185,83,31,false,true,-DC-,D(C),Spain,es,SLL,27,0,2,2,0,1,Bruno González,Bruno,González,294192,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.50074074074074,2261,5,280
+186,84,27,false,true,-DC-DMC-,"D(C),DMC",Spain,,SLL,34,0,2,8,0,0,Fali,Rafael,Jiménez Jarque,400051,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.5,2639,10,281
+192,85,28,false,true,-GK-,GK,Spain,es,SLL,28,0,0,0,0,0,David Soria,David,Soria,243262,Goalkeeper,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4992857142857146,2520,0,282
+179,70,20,false,true,-DL-,D(L),Spain,,SLL,16,0,1,1,0,1,Manu Sánchez,Manuel,Sánchez,374813,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.496875,974,3,283
+189,78,24,false,true,-DC-,D(C),Spain,fr,SLL,26,0,4,4,0,3,Mouctar Diakhaby,Mouctar,Diakhaby,322095,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.493846153846155,2082,11,284
+182,75,22,false,true,,Midfielder,Spain,es,SLL,4,0,0,1,0,0,Vicente Esquerdo,Vicente,Esquerdo,387480,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.492500000000001,233,1,285
+178,74,31,false,true,-DL-DR-,D(LR),Spain,es,SLL,19,0,3,4,0,1,Quini,Joaquín José,Marín Ruiz,115995,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.488421052631579,1187,8,286
+167,66,29,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,37,0,11,15,3,5,Portu,Cristian,Portugués Manzanera,106895,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.487567567567567,2190,31,287
+179,72,21,false,true,-MC-,M(C),Spain,pt,SLL,8,0,3,3,0,2,Domingos Quina,Domingos,Quina,331582,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4875,343,8,288
+188,83,27,false,true,-DC-,D(C),Spain,br,SLL,8,0,2,2,0,0,Rodrigo Ely,Rodrigo,Ely,97262,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.485,470,4,289
+184,78,33,false,true,-MC-,M(C),Spain,es,SLL,33,0,1,6,0,2,Tomás Pina,Tomás,Pina,83504,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.479090909090908,2590,9,290
+168,58,21,false,true,-AMR-,AM(R),Spain,mx,SLL,21,0,4,4,0,5,Diego Lainez,Diego,Lainez,369101,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.478095238095239,859,13,291
+0,0,20,false,true,,Midfielder,Spain,,SLL,4,0,0,1,0,0,Marvin Park,Marvin Olawale,Akinlabi Park,401175,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4775,133,1,292
+190,86,23,false,true,-FW-,FW,Spain,rs,SLL,9,0,6,5,0,0,Ivan Saponjic,Ivan,Saponjic,296563,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.476666666666667,387,11,293
+180,80,25,false,true,-DC-,D(C),Spain,gh,SLL,25,0,0,5,0,4,Joseph Aidoo,Joseph,Aidoo,320713,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4764,1285,9,294
+188,87,29,false,true,-DC-,D(C),Spain,mx,SLL,33,0,0,6,0,0,Néstor Araújo,Néstor,Araújo,88191,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4748484848484855,2424,6,295
+184,75,33,false,true,-MC-,M(C),Spain,es,SLL,27,0,2,5,0,1,Pedro Mosquera,Pedro,Mosquera,55299,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.472592592592593,2055,8,296
+186,81,29,false,true,-GK-,GK,Spain,es,SLL,38,0,0,0,0,0,Fernando Pacheco,Fernando,Pacheco,95915,Goalkeeper,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.470526315789473,3348,0,297
+185,80,31,false,true,-DC-,D(C),Spain,br,SLL,11,0,0,0,0,1,Sidnei,Sidnei Rechel,da Silva Júnior,40731,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.47,695,1,298
+189,86,23,false,true,-DMC-,DMC,Spain,es,SLL,36,0,10,19,0,9,Jon Moncayola,Jon,Moncayola,381673,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.468611111111109,2665,38,299
+183,72,22,false,true,-AML-,AM(L),Spain,,SLL,30,0,8,10,1,6,Jon Morcillo,Jon,Morcillo,399988,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.462666666666667,1363,24,300
+169,60,34,false,true,-DL-MC-ML-,"D(L),M(CL)",Spain,mx,SLL,24,0,5,4,0,2,Andrés Guardado,Andrés,Guardado,21019,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4608333333333325,1322,11,301
+190,85,27,false,true,-GK-,GK,Spain,es,SLL,10,0,0,0,0,0,Rubén Yáñez,Rubén,Yáñez,299283,Goalkeeper,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.460000000000001,900,0,302
+188,86,30,false,true,-AMC-FW-,"AM(C),FW",Spain,nl,SLL,34,0,11,14,1,7,Luuk de Jong,Luuk,de Jong,68585,Forward,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4597058823529405,1264,32,303
+176,79,29,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,es,SLL,25,0,3,10,1,7,Isco,Francisco Román,Alarcón Suárez,82989,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.459599999999999,899,20,304
+186,70,28,false,true,-GK-,GK,Spain,ar,SLL,32,0,0,0,0,0,Jeremías Ledesma,Jeremías,Ledesma,136130,Goalkeeper,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.458437499999998,2880,0,305
+179,64,26,false,true,-MC-,M(C),Spain,es,SLL,17,0,2,3,0,3,Jon Guridi,Jon,Guridi,335041,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4564705882352955,828,8,306
+188,78,33,false,true,-DL-DR-MR-,"D(LR),M(R)",Spain,cm,SLL,31,0,2,5,0,3,Allan-Roméo Nyom,Allan-Roméo,Nyom,91434,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.450967741935487,2334,10,307
+184,78,32,false,true,-DC-,D(C),Spain,es,SLL,22,0,0,0,0,1,Sergio Postigo,Sergio,Postigo,109896,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.449999999999999,1625,1,308
+191,91,27,false,true,-GK-,GK,Spain,pt,SLL,32,0,0,0,0,0,Rui Silva,Rui Tiago,Dantas da Silva,141833,Goalkeeper,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.447187499999998,2880,0,309
+178,72,32,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,35,0,15,23,1,10,Roberto Torres,Roberto,Torres,109349,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.442571428571428,1893,48,310
+182,77,32,false,true,-DL-DR-MC-MR-,"D(LR),M(CR)",Spain,es,SLL,25,0,5,1,0,0,Óscar De Marcos,Óscar,De Marcos,78500,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.440799999999999,1517,6,311
+191,83,28,false,true,-DMC-,DMC,Spain,es,SLL,30,0,5,11,0,6,Mikel Vesga,Mikel,Vesga,261516,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.439333333333334,1722,22,312
+181,77,34,false,true,-FW-,FW,Spain,co,SLL,23,0,12,4,0,4,Carlos Bacca,Carlos,Bacca,71687,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.438260869565217,782,20,313
+187,79,29,false,true,-MC-,M(C),Spain,ar,SLL,32,0,5,4,1,8,Rodrigo Battaglia,Rodrigo,Battaglia,134739,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.437500000000002,2495,17,314
+185,83,26,false,true,-DC-DL-,D(CL),Spain,es,SLL,19,0,2,2,0,1,Diego González,Diego,González,316957,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4357894736842125,1280,5,315
+190,82,27,false,true,-DC-,D(C),Spain,es,SLL,23,0,4,3,0,1,Dani Calvo,Daniel Pedro,Calvo Sanromán,300918,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4356521739130415,1779,8,316
+174,72,37,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,22,0,0,1,0,2,Pedro López,Pedro,López,10067,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.435454545454546,1064,3,317
+175,72,30,false,true,-AMC-AML-,AM(CL),Spain,es,SLL,21,0,2,7,1,5,Borja García,Borja,García,75913,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4295238095238085,1119,14,318
+182,74,26,false,true,-DC-DMC-,"D(C),DMC",Spain,es,SLL,19,0,0,5,0,2,Rober Pier,Roberto,Suárez Pier,301467,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.428947368421052,1427,7,319
+190,84,30,false,true,-DC-,D(C),Spain,ar,SLL,24,0,4,1,0,1,Marcos Mauro,Marcos Mauro,López Gutiérrez,400045,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.428333333333332,1831,6,320
+185,63,21,false,true,,Defender,Spain,,SLL,3,0,0,0,0,1,Pepe Sanchez,José,Sanchez,389903,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.426666666666667,254,1,321
+179,75,36,false,true,-MC-,M(C),Spain,es,SLL,32,0,7,9,1,3,Mikel Rico,Mikel,Rico,22500,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.426249999999999,2200,19,322
+185,74,28,false,true,-FW-,FW,Spain,hn,SLL,29,0,14,19,1,2,Anthony Lozano,Anthony,Lozano,90003,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.425172413793103,1531,35,323
+194,94,29,false,true,-GK-,GK,Spain,rs,SLL,35,0,2,1,0,0,Marko Dmitrovic,Marko,Dmitrovic,259393,Goalkeeper,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.425142857142856,3121,3,324
+177,76,33,false,true,-DL-,D(L),Spain,es,SLL,23,0,1,2,0,0,Mikel Balenziaga,Mikel,Balenziaga,44739,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.423478260869564,1689,3,325
+179,74,30,false,true,-AML-FW-,"AM(L),FW",Spain,ru,SLL,21,0,6,12,0,2,Denis Cheryshev,Denis,Cheryshev,110297,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.422857142857144,1105,20,326
+182,78,30,false,true,-GK-,GK,Spain,es,SLL,29,0,0,0,0,0,Aitor Fernández,Aitor,Fernández,91194,Goalkeeper,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.420689655172413,2610,0,327
+182,73,26,false,true,,Midfielder,Spain,es,SLL,3,0,0,0,0,0,Eugeni Valderrama,Eugeni,Valderrama,113535,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.419999999999999,114,0,328
+173,72,28,false,true,-DR-,D(R),Spain,es,SLL,8,0,0,1,0,0,Kevin Vázquez,Kevin,Vázquez,279512,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.418749999999999,560,1,329
+189,81,25,false,true,-DC-,D(C),Spain,sk,SLL,11,0,2,3,1,3,Denis Vavro,Denis,Vavro,129363,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.417272727272728,616,8,330
+178,75,19,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,31,0,7,10,0,6,Ander Barrenetxea,Ander,Barrenetxea,367857,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.417096774193548,1300,23,331
+176,70,29,false,true,-DR-,D(R),Spain,es,SLL,12,0,1,1,0,0,Joseba Zaldua,Joseba,Zaldua,135911,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.415833333333333,636,2,332
+177,75,28,false,true,-DR-,D(R),Spain,co,SLL,11,0,0,0,0,0,Helibelton Palacios,Helibelton,Palacios Zapata,106466,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.413636363636363,743,0,333
+181,83,31,false,true,-DC-DL-,D(CL),Spain,es,SLL,21,0,0,8,0,2,Pedro Bigas,Pedro,Bigas,108100,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.411904761904763,1530,10,334
+174,63,32,false,true,-DL-DR-ML-,"D(LR),M(L)",Spain,es,SLL,23,0,1,4,0,3,Nacho,José Ignacio,Martínez García,121544,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.410869565217392,1813,8,335
+174,72,25,false,true,-FW-,FW,Spain,il,SLL,32,0,17,14,2,8,Shon Weissman,Shon,Weissman,382939,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.41,2139,39,336
+185,80,31,false,true,-DC-,D(C),Spain,es,SLL,32,0,3,3,0,2,Víctor Laguardia,Víctor,Laguardia,79708,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.41,2636,8,337
+186,81,29,false,true,-DC-,D(C),Spain,es,SLL,17,0,0,3,1,2,Unai García,Unai,García,131037,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.409411764705881,1244,5,338
+188,73,21,false,true,-AMC-FW-,"AM(C),FW",Spain,,SLL,24,0,6,11,0,1,Oihan Sancet,Oihan,Sancet,381510,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.409166666666667,1036,18,339
+178,72,35,false,true,-DC-DR-MC-,"D(CR),M(C)",Spain,es,SLL,33,0,4,8,1,4,Oier Sanjurjo,Oier,Sanjurjo,25932,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.40878787878788,2088,16,340
+182,74,31,false,true,-DL-,D(L),Spain,es,SLL,14,0,0,2,0,0,Cote,José Ángel,Valdés Díaz,70216,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.408571428571428,905,2,341
+186,77,28,false,true,-DMC-,DMC,Spain,rs,SLL,21,0,0,4,0,2,Nemanja Radoja,Nemanja,Radoja,239053,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.407619047619048,1118,6,342
+0,0,20,false,true,-FW-,FW,Spain,es,SLL,17,0,7,5,1,2,Fernando Niño,Fernando,Niño,391082,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.407058823529412,594,14,343
+180,76,32,false,true,-GK-,GK,Spain,es,SLL,25,0,0,0,0,0,Jordi Masip,Jordi,Masip,91254,Goalkeeper,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.4068,2250,0,344
+177,76,27,false,true,,Midfielder,Spain,es,SLL,12,0,4,8,1,2,Jorge Pombo,Jorge,Pombo,400049,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.405833333333334,519,14,345
+178,72,31,false,true,-MC-,M(C),Spain,ba,SLL,19,0,3,9,0,4,Miralem Pjanic,Miralem,Pjanic,30226,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.405263157894737,623,16,346
+180,79,28,false,true,-DL-,D(L),Spain,es,SLL,26,0,0,0,0,1,Juan Cruz,Juan Cruz,Álvaro Armado,96566,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.404615384615384,1966,1,347
+192,80,26,false,true,-DC-,D(C),Spain,pt,SLL,29,0,2,3,0,1,Domingos Duarte,Domingos de Sousa,Coutinho Meneses Duarte,322772,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.404137931034482,2365,6,348
+185,66,28,false,true,-DL-ML-,"D(L),M(L)",Spain,co,SLL,17,0,2,4,0,1,Johan Mojica,Johan,Mojica,135098,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.402941176470589,1206,7,349
+174,64,25,false,true,-DL-,D(L),Spain,es,SLL,22,0,1,6,0,1,Carlos Neva,Carlos,Neva,381672,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.401818181818182,1800,8,350
+184,80,24,false,true,-AMC-,AM(C),Spain,es,SLL,24,0,4,7,0,4,Kike Pérez,Enrique,Pérez,395579,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.398750000000002,1155,15,351
+182,78,34,false,true,-DC-DL-DR-MR-,"D(CLR),M(R)",Spain,es,SLL,17,0,2,6,0,1,Coke,Jorge,Andújar Moreno,44486,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.398235294117648,839,9,352
+184,70,21,false,true,-AMR-,AM(R),Spain,pt,SLL,28,0,12,5,0,6,Trincão,Francisco António,Machado Trincão,368409,Forward,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.397857142857142,683,23,353
+179,70,21,false,true,,Forward,Spain,es,SLL,17,0,5,4,0,5,Roberto López,Roberto,López,364260,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.394117647058824,500,14,354
+195,78,31,false,true,-GK-,GK,Spain,es,SLL,18,0,0,0,0,0,Joel Robles,Joel,Robles,81681,Goalkeeper,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.393333333333334,1620,0,355
+183,72,28,false,true,-DL-DR-MR-,"D(LR),M(R)",Spain,fr,SLL,32,0,4,2,0,2,Dimitri Foulquier,Dimitri,Foulquier,101084,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.393125000000001,2672,8,356
+184,76,29,false,true,-DMC-,DMC,Spain,me,SLL,13,0,0,2,1,0,Nikola Vukcevic,Nikola,Vukcevic,50069,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.393076923076923,815,2,357
+196,90,29,false,true,-GK-,GK,Spain,ar,SLL,8,0,0,0,0,0,Paulo Gazzaniga,Paulo,Gazzaniga,104732,Goalkeeper,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.390000000000001,720,0,358
+173,70,30,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,ml,SLL,1,0,0,1,1,0,Abdoulaye Diaby,Abdoulaye,Diaby,86501,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.39,17,1,359
+169,64,23,false,true,-AML-AMR-FW-,"AM(LR),FW",Spain,tr,SLL,11,0,2,4,0,2,Emre Mor,Emre,Mor,317999,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.39,503,8,360
+184,77,20,false,true,,Defender,Spain,,SLL,1,0,0,1,0,0,Jon Pacheco Dozagarat,Jon,Pacheco Dozagarat,395320,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.39,31,1,361
+187,83,24,false,true,-GK-,GK,Spain,es,SLL,3,0,0,0,0,0,Juan Pérez,Juan,Pérez,276903,Goalkeeper,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.386666666666667,270,0,362
+184,71,33,false,true,-DC-DL-DR-,D(CLR),Spain,es,SLL,17,0,1,4,0,0,Víctor Díaz,Víctor,Díaz,34525,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.385882352941176,825,5,363
+183,70,34,false,true,-ML-MR-,M(LR),Spain,es,SLL,24,0,5,11,1,3,Pedro León,Pedro,León,23634,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3825,938,19,364
+178,69,25,false,true,-DL-DR-MR-,"D(LR),M(R)",Spain,es,SLL,26,0,0,1,0,1,Martín Aguirregabiria,Martín,Aguirregabiria,333111,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.382307692307692,1557,2,365
+186,78,33,false,true,-DC-,D(C),Spain,es,SLL,11,0,0,3,0,1,Xabier Etxeita,Xabier,Etxeita,69806,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.380909090909091,881,4,366
+174,67,23,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,20,0,2,6,0,2,Óscar Rodríguez,Óscar,Rodríguez,353783,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3765,498,10,367
+184,79,31,false,true,-DMC-,DMC,Spain,ar,SLL,33,0,0,0,0,2,Iván Marcone,Iván,Marcone,125246,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.376060606060607,2651,2,368
+175,73,30,false,true,-DL-DR-MR-,"D(LR),M(R)",Spain,es,SLL,5,0,0,1,0,1,Martín Montoya,Martín,Montoya,91387,Defender,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3759999999999994,238,2,369
+178,73,29,false,true,-MC-MR-,M(CR),Spain,rs,SLL,16,0,4,1,0,3,Darko Brasanac,Darko,Brasanac,84880,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3725000000000005,910,8,370
+184,78,30,false,true,-FW-,FW,Spain,es,SLL,29,0,11,14,1,11,Sergi Guardiola,Sergio,Guardiola Navarro,323135,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.371379310344827,1795,36,371
+186,0,22,false,true,-MC-,M(C),Spain,,SLL,12,0,0,3,0,2,Miguel Ángel Atienza,Miguel Ángel,Atienza,389397,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.370833333333334,838,5,372
+187,79,29,false,true,-DMC-,DMC,Spain,pt,SLL,27,0,6,6,0,3,William Carvalho,William,Silva de Carvalho,99911,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.370740740740741,1220,15,373
+188,84,30,false,true,-DC-,D(C),Spain,fr,SLL,7,0,0,2,0,0,Eliaquim Mangala,Eliaquim,Mangala,68852,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.369999999999999,320,2,374
+170,66,22,false,true,-DMC-,DMC,Spain,es,SLL,32,0,7,8,0,4,Fran Beltrán,Francisco,Beltrán,362421,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.369375000000002,1392,19,375
+184,86,23,false,true,-FW-,FW,Spain,es,SLL,35,0,14,19,1,5,Asier Villalibre,Asier,Villalibre,331171,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.367428571428571,1586,38,376
+184,72,23,false,true,-DC-,D(C),Spain,es,SLL,13,0,0,2,0,1,Tachi,Alberto,Rodríguez,336836,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.366153846153846,849,3,377
+173,67,20,false,true,-AMC-AML-AMR-,AM(CLR),Spain,jp,SLL,18,0,7,4,0,4,Takefusa Kubo,Takefusa,Kubo,377285,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.362777777777777,804,15,378
+179,76,29,false,true,-ML-MR-,M(LR),Spain,es,SLL,22,0,4,4,0,2,Jony,Jonathan,Rodríguez Menéndez,294140,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.361363636363637,869,10,379
+169,59,33,false,true,-AMC-AML-AMR-,AM(CLR),Spain,jp,SLL,28,0,17,10,0,10,Takashi Inui,Takashi,Inui,38820,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.361071428571429,1829,37,380
+178,0,19,false,true,,Midfielder,Spain,es,SLL,1,0,0,0,0,0,Roberto Navarro,Roberto,Navarro,400237,Midfielder,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.36,34,0,381
+176,72,26,false,true,,Forward,Spain,es,SLL,13,0,4,5,0,2,Martín Merquelanz,Martín,Merquelanz,363025,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.356923076923078,541,11,382
+176,71,20,false,true,-DMC-,DMC,Spain,es,SLL,28,0,0,7,0,2,Unai Vencedor,Unai,Vencedor,392383,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.356785714285714,1703,9,383
+176,74,30,false,true,-MC-ML-MR-,M(CLR),Spain,fr,SLL,22,0,0,1,0,3,Francis Coquelin,Francis,Coquelin,69738,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.355,730,4,384
+186,77,27,false,true,-DC-,D(C),Spain,ma,SLL,11,0,1,2,0,0,Sofian Chakla,Sofian,Chakla,391561,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3518181818181825,896,3,385
+175,60,20,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,1,0,0,0,0,0,Bryan Gil,Bryan,Gil,368519,Forward,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.35,12,0,386
+187,82,34,false,true,-GK-,GK,Spain,es,SLL,16,0,0,0,0,0,Andrés Fernández,Andrés,Fernández,32565,Goalkeeper,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3462499999999995,1440,0,387
+185,84,26,false,true,-DC-,D(C),Spain,uy,SLL,20,0,0,3,0,2,Erick Cabaco,Erick,Cabaco,326461,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.345000000000001,1328,5,388
+183,74,29,false,true,-DC-MC-,"D(C),M(C)",Spain,es,SLL,27,0,2,4,0,0,Sergio Álvarez,Sergio,Álvarez,86826,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.344814814814815,1565,6,389
+178,67,23,false,true,,Forward,Spain,es,SLL,3,0,0,1,0,0,Iñigo Vicente,Iñigo,Vicente,402137,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.343333333333334,49,1,390
+177,70,28,false,true,-DMC-,DMC,Spain,es,SLL,23,0,4,3,0,2,Pere Pons,Pere,Pons,140929,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.340434782608696,1184,9,391
+181,68,28,false,true,-DC-DR-,D(CR),Spain,es,SLL,5,0,0,0,0,0,Jonás Ramalho,Jonás,Ramalho,82968,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.338,304,0,392
+180,68,21,false,true,,Midfielder,Spain,,SLL,13,0,1,2,0,0,Javi Martínez,Javier,Martínez,391040,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.337692307692307,460,3,393
+183,74,30,false,true,-MC-,M(C),Spain,es,SLL,17,0,3,4,0,7,Recio,José Luis,García del Pozo,93820,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.336470588235294,731,14,394
+185,78,30,false,true,-FW-,FW,Spain,br,SLL,27,0,2,10,0,2,Deyverson,Deyverson Brum,Silva Acosta,135641,Forward,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.335925925925926,872,14,395
+167,72,24,false,true,-FW-,FW,Spain,es,SLL,30,0,14,3,0,2,Manu Vallejo,Manuel Javier,Vallejo Galván,377204,Forward,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.334333333333334,940,19,396
+177,73,30,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,dk,SLL,29,0,7,10,0,6,Martin Braithwaite,Martin,Braithwaite,73494,Forward,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.332413793103447,1164,23,397
+174,68,24,false,true,-DMC-,DMC,Spain,es,SLL,24,0,0,2,0,1,Fede San Emeterio,Federico,San Emeterio Díaz,141641,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3308333333333335,1463,3,398
+178,75,18,false,true,-MR-,M(R),Spain,gb-eng,SLL,32,0,2,3,1,1,Yunus Musah,Yunus,Musah,400357,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.328437499999999,1535,6,399
+175,64,30,false,true,-AMR-,AM(R),Spain,es,SLL,28,0,5,10,1,2,Salvi Sánchez,Salvador,Sánchez Ponce,400048,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.325714285714286,1950,17,400
+188,80,28,false,true,-DMC-,DMC,Spain,cf,SLL,25,0,2,3,0,0,Geoffrey Kondogbia,Geoffrey,Kondogbia,91978,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3203999999999985,596,5,401
+188,85,32,false,true,-GK-,GK,Spain,cz,SLL,5,0,0,0,0,0,Tomás Vaclik,Tomás,Vaclik,68732,Goalkeeper,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.320000000000001,450,0,402
+177,0,23,false,true,,Midfielder,Spain,es,SLL,1,0,0,0,0,0,Oriol Rey,Oriol,Rey,362623,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.32,14,0,403
+184,73,26,false,true,-AMR-,AM(R),Spain,es,SLL,22,0,4,7,1,2,Iván Alejo,Iván,Alejo,280027,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.319999999999999,820,13,404
+185,72,25,false,true,-AMC-FW-,"AM(C),FW",Spain,es,SLL,11,0,4,2,0,1,Carlos Fernández,Carlos,Fernández,140812,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.319090909090909,389,7,405
+169,56,21,false,true,-MC-,M(C),Spain,es,SLL,14,0,2,1,0,1,Riqui Puig,Ricard,Puig,372827,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.31857142857143,283,4,406
+190,88,24,false,true,-GK-,GK,Spain,es,SLL,37,0,0,0,0,0,Unai Simón,Unai,Simón,332823,Goalkeeper,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.317027027027029,3330,0,407
+185,80,31,false,true,-DC-MC-,"D(C),M(C)",Spain,es,SLL,30,0,5,10,0,2,David Timor,David,Timor,96448,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.315666666666666,1388,17,408
+178,72,28,false,true,-FW-,FW,Spain,jp,SLL,26,0,5,12,1,5,Yoshinori Muto,Yoshinori,Muto,132210,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.314615384615385,1122,22,409
+180,70,28,false,true,-DL-DR-ML-MR-,"D(LR),M(LR)",Spain,es,SLL,18,0,1,1,0,0,Íñigo Lekue,Íñigo,Lekue,291686,Defender,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.312222222222222,635,2,410
+185,72,25,false,true,-AMC-FW-,"AM(C),FW",Spain,es,SLL,5,0,1,1,0,0,Carlos Fernández,Carlos,Fernández,140812,Forward,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.312,142,2,411
+185,79,32,false,true,-FW-,FW,Spain,es,SLL,33,0,19,14,1,7,Jaime Mata,Jaime,Mata,140771,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.311818181818183,2042,40,412
+173,68,26,false,true,-DR-,D(R),Spain,es,SLL,22,0,0,1,0,1,Luis Pérez,Luis,Pérez,319878,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3113636363636365,1298,2,413
+189,80,42,false,true,,Goalkeeper,Spain,es,SLL,2,0,0,0,0,0,Alberto Cifuentes,Alberto,Cifuentes,11878,Goalkeeper,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3100000000000005,180,0,414
+174,70,22,false,true,-DR-MR-,"D(R),M(R)",Spain,es,SLL,30,0,1,8,0,2,Alejandro Pozo,Alejandro,Pozo,338365,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.307333333333333,2187,11,415
+173,68,24,false,true,-DMC-,DMC,Spain,es,SLL,11,0,1,1,0,1,Aleix García,Aleix,García,280663,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.306363636363637,437,3,416
+0,0,21,false,true,,Midfielder,Spain,es,SLL,4,0,0,2,0,1,Alejandro Cantero,Alejandro,Cantero,414421,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.305,239,3,417
+196,93,32,false,true,-DC-,D(C),Spain,,SLL,13,0,0,1,0,1,Pedro Alcalá,Pedro,Alcalá,79923,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.303846153846154,908,2,418
+180,74,36,false,true,-FW-,FW,Spain,es,SLL,29,0,12,10,0,8,Roberto Soldado,Roberto,Soldado,18275,Forward,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.303103448275862,1444,30,419
+190,80,27,false,true,-FW-,FW,Spain,ba,SLL,4,0,2,0,0,0,Kenan Kodro,Kenan,Kodro,238893,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.3,43,2,420
+173,0,19,false,true,,Midfielder,Spain,,SLL,8,0,1,0,0,0,Sergio Arribas,Sergio,Arribas,401174,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.299999999999999,128,1,421
+178,72,27,false,true,-DR-,D(R),Spain,,SLL,28,0,5,3,0,0,Son,Francisco Javier,Hidalgo,400359,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.297857142857144,1092,8,422
+168,64,25,false,true,-DMC-,DMC,Spain,uy,SLL,19,0,1,1,0,1,Lucas Torreira,Lucas,Torreira,248109,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.2973684210526315,507,3,423
+177,63,26,false,true,,Forward,Spain,,SLL,2,0,0,0,0,0,Jeison Lucumí,Jeison,Lucumí,403893,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.29,49,0,424
+182,68,32,false,true,-MC-MR-,M(CR),Spain,es,SLL,22,0,5,2,0,3,Míchel,Miguel Alfonso,Herrero Javaloyas,106868,Midfielder,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.29,945,10,425
+190,0,23,false,true,,Midfielder,Spain,ci,SLL,10,0,0,0,0,0,Paul Akouokou,Paul,Akouokou,369100,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.289999999999999,377,0,426
+172,69,28,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,es,SLL,16,0,6,4,0,4,Juanmi,Juan Miguel,Jiménez López,83080,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.28875,601,14,427
+187,81,29,false,true,-DC-MC-,"D(C),M(C)",Spain,rs,SLL,30,0,1,7,0,1,Nemanja Gudelj,Nemanja,Gudelj,77417,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.288,1025,9,428
+179,69,31,false,true,-DL-ML-,"D(L),M(L)",Spain,es,SLL,12,0,0,2,0,0,Toño,Antonio,García Aranda,243187,Defender,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.286666666666668,729,2,429
+190,79,27,false,true,-DC-DMC-,"D(C),DMC",Spain,tr,SLL,12,0,0,3,0,0,Okay Yokuslu,Okay,Yokuslu,93805,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.286666666666666,454,3,430
+171,68,20,false,true,,Midfielder,Spain,es,SLL,29,0,2,5,0,3,Sergio Gómez,Sergio,Gómez,355110,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.283793103448274,773,10,431
+190,79,34,false,true,-FW-,FW,Spain,es,SLL,22,0,4,8,0,2,Enric Gallego,Enrique,Gallego Puigsech,369089,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.282727272727274,803,14,432
+177,72,31,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,13,0,0,4,0,1,Ibai Gómez,Ibai,Gómez,91193,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.282307692307692,422,5,433
+185,74,27,false,true,-DC-DL-ML-,"D(CL),M(L)",Spain,uy,SLL,12,0,0,0,0,0,Gastón Silva,Gastón,Silva,113484,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.279166666666666,599,0,434
+175,60,22,false,true,,Forward,Spain,,SLL,17,0,6,3,0,3,Jota,João Pedro,Neves Filipe,369557,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.278823529411764,665,12,435
+170,70,27,false,true,-DL-ML-,"D(L),M(L)",Spain,pt,SLL,22,0,4,4,0,2,Kévin Rodrigues,Kévin Manuel,Rodrigues,114170,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.2768181818181805,1094,10,436
+180,70,30,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,23,0,2,4,0,10,Jota,José Ignacio,Peleteiro Ramallo,10447,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.276521739130436,1408,16,437
+180,76,27,false,true,-FW-,FW,Spain,es,SLL,16,0,6,7,0,2,Mariano,Mariano,Díaz Mejía,323236,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.27625,508,15,438
+178,69,22,false,true,-FW-,FW,Spain,,SLL,34,0,8,14,0,9,Dani Gómez,Daniel,Gómez Alcón,400358,Forward,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.270294117647059,1660,31,439
+172,60,22,false,true,,Forward,Spain,,SLL,2,0,1,0,0,0,Alfon,Alfonso,González Martínez,408942,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.27,33,1,440
+0,0,19,false,true,,Forward,Spain,,SLL,2,0,0,1,0,0,Nico Williams,Nicholas,Williams,408449,Forward,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.27,55,1,441
+171,62,33,false,true,-DL-DR-ML-,"D(LR),M(L)",Spain,es,SLL,14,0,0,2,0,0,Jaume Costa,Jaume,Costa,69965,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.269285714285714,346,2,442
+170,70,20,false,true,,Defender,Spain,,SLL,3,0,1,1,1,0,Sergio Carreira,Sergio,Carreira,386622,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.266666666666667,261,2,443
+183,83,30,false,true,-FW-,FW,Spain,es,SLL,11,0,2,2,0,1,Álvaro Giménez,Álvaro,Giménez,79827,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.263636363636365,404,5,444
+181,73,24,false,true,-DL-,D(L),Spain,es,SLL,9,0,0,0,0,1,Adrián Marín,Adrián,Marín,243271,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.261111111111111,266,1,445
+184,75,27,false,true,-AML-AMR-,AM(LR),Spain,es,SLL,1,0,0,0,0,0,Burgui,Jorge,Franco Alviz,149122,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.26,20,0,446
+175,70,22,false,true,-ML-,M(L),Spain,es,SLL,13,0,2,2,0,3,Álex Blanco,Alejandro,Blanco,369560,Forward,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.2592307692307685,580,7,447
+175,69,19,false,true,-MR-,M(R),Spain,uy,SLL,12,0,2,3,0,0,Facundo Pellistri,Facundo,Pellistri,404086,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.259166666666665,540,5,448
+192,94,35,false,true,-GK-,GK,Spain,es,SLL,14,0,0,0,0,0,Roberto Jiménez,Roberto,Jiménez,19442,Goalkeeper,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.256428571428572,1171,0,449
+186,71,24,false,true,-DC-,D(C),Spain,es,SLL,16,0,0,3,0,0,Javi Sánchez,Javier,Sánchez de Felipe,362276,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.255625,920,3,450
+187,77,22,false,true,-DC-,D(C),Spain,fr,SLL,16,0,1,3,0,1,Modibo Sagnan,Modibo,Sagnan,375327,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.249375,620,5,451
+174,70,35,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,jp,SLL,25,0,5,9,1,5,Shinji Okazaki,Shinji,Okazaki,26222,Forward,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.247199999999999,1128,19,452
+178,77,25,false,true,-MC-,M(C),Spain,uy,SLL,9,0,1,1,0,0,Christian Oliva,Christian,Oliva,369713,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.245555555555556,193,2,453
+176,73,23,false,true,,Forward,Spain,es,SLL,2,0,0,0,0,0,Kuki Zalazar,José Luis,Zalazar Martínez,331179,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.245,28,0,454
+182,74,35,false,true,-DMC-,DMC,Spain,es,SLL,26,0,1,6,1,4,Manu García,Manuel Alejandro,García Sánchez,67443,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.244230769230769,1115,11,455
+180,70,28,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,ar,SLL,23,0,8,6,1,2,Emiliano Rigoni,Emiliano,Rigoni,133808,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.243043478260868,1142,16,456
+183,73,33,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,es,SLL,17,0,3,4,0,3,Adrián López,Adrián,López,14089,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.241764705882352,474,10,457
+172,70,34,false,true,-FW-,FW,Spain,fr,SLL,27,0,7,5,1,4,Kevin Gameiro,Kevin,Gameiro,19453,Forward,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.241111111111111,1070,16,458
+186,79,23,false,true,-DMC-,DMC,Spain,ci,SLL,23,0,0,4,0,0,Idrissa Doumbia,Idrissa,Doumbia,327706,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.237826086956522,770,4,459
+171,64,23,false,true,-DL-,D(L),Spain,es,SLL,15,0,2,0,0,0,Toni Lato,Antonio,Latorre,312580,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.235333333333333,727,2,460
+176,70,26,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,20,0,4,1,0,5,Fede Vico,Federico,Vico Villegas,243078,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.232,768,10,461
+175,0,19,false,true,,Midfielder,Spain,ru,SLL,1,0,0,0,0,0,Edgar Sevikyan,Edgar,Sevikyan,407620,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.23,7,0,462
+0,0,19,false,true,,Midfielder,Spain,,SLL,6,0,1,1,1,0,Álex Baena,Alejandro,Baena,395242,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.2299999999999995,137,2,463
+182,76,27,false,true,-MC-,M(C),Spain,cd,SLL,20,0,0,3,0,0,Omenuke Mfulu,Omenuke,Mfulu,146725,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.227,789,3,464
+184,76,32,false,true,-DC-,D(C),Spain,es,SLL,5,0,0,0,0,0,Kiko Olivas,Francisco José,Olivas Alba,72286,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.226000000000001,173,0,465
+189,80,29,false,true,-DC-DL-,D(CL),Spain,es,SLL,10,0,1,1,0,1,Chema Rodríguez,José Manuel,Rodríguez Benito,140997,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.224000000000001,557,3,466
+184,76,25,false,true,-AMC-AMR-,AM(CR),Spain,es,SLL,5,0,1,4,0,1,Dani Raba,Daniel,Rabaseda Antolín,334221,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.223999999999999,146,6,467
+175,78,25,false,true,-AML-AMR-,AM(LR),Spain,nl,SLL,3,0,1,0,0,0,Oussama Idrissi,Oussama,Idrissi,299321,Forward,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.223333333333334,24,1,468
+178,75,23,false,true,,Forward,Spain,,SLL,23,0,1,7,3,2,Dani Escriche,Daniel,Escriche,400296,Forward,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.220434782608697,851,10,469
+181,0,23,false,true,,Midfielder,Spain,es,SLL,1,0,0,0,0,0,Álvaro Bravo,Álvaro,Bravo,405795,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.22,14,0,470
+0,0,21,false,true,,Midfielder,Spain,,SLL,15,0,0,3,0,2,Rodrigo Sánchez,Rodrigo,Sánchez,395188,Midfielder,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.218,532,5,471
+183,71,21,false,true,,Defender,Spain,es,SLL,2,0,0,0,0,0,Guillem Molina,Guillem,Molina,392548,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.215,153,0,472
+182,85,23,false,true,-FW-,FW,Spain,rs,SLL,4,0,1,5,0,0,Luka Jovic,Luka,Jovic,315755,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.215,149,6,473
+184,79,24,false,true,-DC-,D(C),Spain,es,SLL,21,0,0,1,0,0,Jesús Vallejo,Jesús,Vallejo,238901,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.214285714285713,1349,1,474
+178,68,22,false,true,-AMC-AMR-,AM(CR),Spain,no,SLL,7,0,0,0,0,3,Martin Ødegaard,Martin,Ødegaard,247454,Midfielder,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.212857142857142,233,3,475
+185,80,31,false,true,-MC-,M(C),Spain,,SLL,23,0,1,3,0,1,Jon Ander Garrido,Jon Ander,Garrido,402187,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.210869565217391,792,5,476
+178,74,33,false,true,-DL-MC-ML-,"D(L),M(CL)",Spain,es,SLL,22,0,2,4,0,2,Iñigo Pérez,Iñigo,Pérez,82279,Midfielder,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.20909090909091,1356,8,477
+184,75,21,false,true,-DC-,D(C),Spain,ar,SLL,14,0,1,3,0,1,Nehuen Pérez,Nehuen,Pérez,349178,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.2071428571428555,740,5,478
+163,63,32,false,true,-ML-MR-,M(LR),Spain,ar,SLL,9,0,3,1,0,0,Pablo Piatti,Pablo,Piatti,23062,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.205555555555555,359,4,479
+187,77,21,false,true,-MC-,M(C),Spain,hr,SLL,2,0,0,0,0,0,Ante Palaversa,Ante,Palaversa,401015,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.205,7,0,480
+174,66,30,false,true,,Defender,Spain,es,SLL,11,0,0,3,0,0,Cifu,Miguel Ángel,Garrido Cifuentes,316137,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.200909090909092,449,3,481
+165,64,27,false,true,,Midfielder,Spain,,SLL,30,0,3,6,0,1,Jairo Izquierdo,Jairo,Izquierdo,403808,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.199333333333334,1270,10,482
+180,76,24,false,true,-AML-,AM(L),Spain,es,SLL,7,0,0,1,0,0,Iñigo Córdoba,Iñigo,Córdoba,344201,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.198571428571428,216,1,483
+0,0,21,false,true,,Midfielder,Spain,,SLL,5,0,0,0,0,1,Jordan Holsgrove,Jordan,Holsgrove,408941,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.198,142,1,484
+188,66,27,false,true,-FW-,FW,Spain,es,SLL,27,0,3,10,1,11,Loren Morón,Lorenzo,Morón,351684,Forward,54,Real Betis,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.196296296296297,984,24,485
+171,66,36,false,true,-DL-ML-,"D(L),M(L)",Spain,pt,SLL,5,0,0,1,0,0,Luisinho,Luís Carlos,Correia Pinto,36720,Defender,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.196,178,1,486
+173,67,20,false,true,-AMC-AML-AMR-,AM(CLR),Spain,jp,SLL,13,0,5,1,0,2,Takefusa Kubo,Takefusa,Kubo,377285,Midfielder,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1946153846153855,293,8,487
+187,82,32,false,true,-AMC-AML-AMR-FW-,"AM(CLR),FW",Spain,ar,SLL,15,0,1,2,0,0,Franco Vázquez,Franco,Vázquez,102439,Midfielder,67,Sevilla,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.191999999999999,154,3,488
+172,68,34,false,true,-FW-,FW,Spain,es,SLL,33,0,14,14,0,10,Ángel Rodríguez,Ángel,Rodríguez,22325,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.191818181818182,1364,38,489
+180,72,25,false,true,-FW-,FW,Spain,es,SLL,21,0,3,4,0,5,Jon Bautista,Jon,Bautista,312690,Forward,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.19,353,12,490
+0,0,21,false,true,,Midfielder,Spain,,SLL,2,0,0,0,0,0,Abdallahi Mahmoud,Abdallahi,Mahmoud,395235,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1899999999999995,66,0,491
+0,0,21,false,true,,Defender,Spain,,SLL,14,0,3,1,0,1,José Manuel Fontán,José Manuel,Fontán,395424,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.187857142857142,652,5,492
+177,70,21,false,true,-FW-,FW,Spain,es,SLL,2,0,0,1,0,0,Hugo Duro,Hugo,Duro,354526,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.185,53,1,493
+180,76,24,false,true,-AML-,AM(L),Spain,es,SLL,3,0,0,1,0,1,Iñigo Córdoba,Iñigo,Córdoba,344201,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.183333333333334,95,2,494
+190,80,27,false,true,-FW-,FW,Spain,ba,SLL,14,0,1,5,2,0,Kenan Kodro,Kenan,Kodro,238893,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.181428571428571,453,6,495
+180,0,22,false,true,,Defender,Spain,gh,SLL,1,0,0,0,0,0,Kingsley Fobi,Kingsley,Fobi,405793,Defender,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.18,45,0,496
+185,80,31,false,true,-FW-MC-ML-MR-,"M(CLR),FW",Spain,es,SLL,11,0,0,2,0,0,Vitolo,Víctor,Machín Pérez,91430,Midfielder,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.179999999999999,295,2,497
+184,0,19,false,true,,Defender,Spain,,SLL,10,0,1,0,0,0,Javier López,Javier,López,395234,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.177,245,1,498
+189,0,20,false,true,,Defender,Spain,es,SLL,2,0,0,0,0,0,Urko Gonzalez,Urko,Gonzalez,401173,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.17,47,0,499
+0,0,21,false,true,,Midfielder,Spain,es,SLL,22,0,3,3,1,5,Miguel Baeza,Miguel,Baeza,399951,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.166818181818181,532,11,500
+182,72,23,false,true,,Forward,Spain,es,SLL,2,0,0,1,0,0,Manuel Nieto,Manuel,Nieto,406770,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.165,12,1,501
+183,73,24,false,true,-FW-,FW,Spain,fr,SLL,5,0,2,4,0,0,Moussa Dembele,Moussa,Dembele,140090,Forward,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.164,95,6,502
+177,78,31,false,true,-DL-MC-ML-,"D(L),M(CL)",Spain,ar,SLL,9,0,0,0,0,0,Juan Sánchez Miño,Juan,Sánchez Miño,94848,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.157777777777777,497,0,503
+178,73,32,false,true,-FW-,FW,Spain,es,SLL,28,0,5,9,2,5,Sergio León,Sergio,León,135610,Forward,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.157499999999999,734,19,504
+177,73,35,false,true,-MC-MR-,M(CR),Spain,ar,SLL,12,0,0,0,0,0,Augusto Fernández,Augusto,Fernández,25956,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.150833333333332,366,0,505
+175,0,21,false,true,,Defender,Spain,,SLL,1,0,0,1,0,0,Ricard Sánchez,Ricard,Sánchez,391977,Defender,63,Atletico Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.15,29,1,506
+169,60,31,false,true,-MC-ML-MR-,M(CLR),Spain,es,SLL,16,0,0,0,0,0,Francisco Portillo,Francisco,Portillo,83360,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1468750000000005,411,0,507
+172,81,27,false,true,-AML-AMR-FW-,"AM(LR),FW",Spain,ar,SLL,8,0,2,3,0,3,Chimy Avila,Ezequiel,Ávila,303707,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.145,199,8,508
+178,65,26,false,true,-MR-,M(R),Spain,es,SLL,17,0,0,2,0,3,Jason,David,Remeseiro Salgueiro,131051,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.142352941176472,434,5,509
+175,76,22,false,true,,Midfielder,Spain,es,SLL,5,0,0,1,0,0,Oier Zarraga,Oier,Zarraga,399989,Midfielder,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.142,98,1,510
+188,80,26,false,true,-DMC-,DMC,Spain,fr,SLL,9,0,0,0,0,0,Yann Bodiger,Yann,Bodiger,231149,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.140000000000001,246,0,511
+180,70,23,false,true,-DMC-,DMC,Spain,cm,SLL,25,0,3,3,0,1,Yan Eteki,Yan,Eteki,381671,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.138400000000001,1324,7,512
+173,64,22,false,true,,Midfielder,Spain,,SLL,15,0,2,0,0,0,Alberto Soro,Alberto,Soro,399987,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1339999999999995,384,2,513
+180,82,28,false,true,-DMC-,DMC,Spain,ci,SLL,7,0,0,0,0,0,Cheick Doukouré,Cheick,Doukouré,81729,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.128571428571428,96,0,514
+188,70,25,false,true,-GK-,GK,Spain,es,SLL,19,0,0,0,0,0,Rubén Blanco,Rubén,Blanco,120335,Goalkeeper,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.126315789473685,1645,0,515
+181,80,25,false,true,-AML-,AM(L),Spain,es,SLL,10,0,2,6,1,1,Waldo Rubio,Waldo,Rubio,372423,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1259999999999994,376,9,516
+178,75,20,false,true,,Midfielder,Spain,es,SLL,21,0,4,2,0,1,Borja Sainz,Borja,Sainz,381714,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1238095238095225,440,7,517
+186,76,23,false,true,,Defender,Spain,es,SLL,1,0,0,0,0,0,Aritz Arambarri,Aritz,Arambarri,381630,Defender,68,Real Sociedad,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.12,25,0,518
+170,70,31,false,true,-AMC-AML-AMR-,AM(CLR),Spain,es,SLL,16,0,0,0,0,0,Víctor Rodríguez,Víctor,Rodríguez,118898,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.11375,418,0,519
+186,77,27,false,true,-DC-,D(C),Spain,ma,SLL,1,0,0,1,0,0,Sofian Chakla,Sofian,Chakla,391561,Defender,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.11,12,1,520
+176,63,20,false,true,,Forward,Spain,es,SLL,4,0,0,0,0,0,Victor Mollejo,Victor,Mollejo,369090,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1075,71,0,521
+190,0,23,false,true,,Midfielder,Spain,,SLL,2,0,0,0,0,0,Juan Brunet,Juan,Brunet,405796,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.105,24,0,522
+175,74,29,false,true,-AMR-,AM(R),Spain,pl,SLL,6,0,1,2,0,2,Damian Kadzior,Damian,Kadzior,346527,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1049999999999995,195,5,523
+181,73,24,false,true,-DL-,D(L),Spain,es,SLL,5,0,0,0,0,1,Adrián Marín,Adrián,Marín,243271,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1,91,1,524
+182,79,23,false,true,,Defender,Spain,,SLL,2,0,0,0,0,0,Álex Martín,José Alejandro,Martín Valerón,410365,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1,95,0,525
+180,0,22,false,true,,Forward,Spain,es,SLL,1,0,0,0,0,0,Sergio Benito,Sergio,Benito,407646,Forward,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.1,1,0,526
+182,79,28,false,true,,Midfielder,Spain,rs,SLL,28,0,1,6,0,2,Filip Malbasic,Filip,Malbasic,105712,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.095714285714286,850,9,527
+183,73,30,false,true,,Midfielder,Spain,es,SLL,15,0,1,2,0,2,Juan Carlos Real,Juan Carlos,Real,131560,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.095333333333333,282,5,528
+185,79,29,false,true,-FW-,FW,Spain,se,SLL,10,0,1,4,0,0,John Guidetti,John,Guidetti,41420,Forward,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.095,201,5,529
+173,60,22,false,true,,Midfielder,Spain,es,SLL,3,0,1,0,0,0,Joaquín Muñoz,Joaquín,Muñoz,366204,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.079999999999999,39,1,530
+189,86,28,false,true,-DR-,D(R),Spain,it,SLL,3,0,0,1,0,0,Cristiano Piccini,Cristiano,Piccini,94831,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.076666666666667,65,1,531
+186,84,33,false,true,-DC-,D(C),Spain,es,SLL,2,0,0,0,0,0,Raúl Navas,Raúl,Rodríguez Navas,75499,Defender,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.075,169,0,532
+186,78,32,false,true,-GK-,GK,Spain,es,SLL,4,0,0,0,0,0,Yoel Rodríguez,Yoel,Rodríguez,83117,Goalkeeper,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.0725,299,0,533
+0,0,19,false,true,,Defender,Spain,,SLL,1,0,0,0,0,0,Koffi,Amankwaa,Akurugu,409334,Defender,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.07,45,0,534
+174,71,25,false,true,-DL-,D(L),Spain,ml,SLL,3,0,0,0,0,0,Youssouf Kone,Youssouf,Kone,143193,Defender,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.063333333333333,72,0,535
+180,73,23,false,true,-AMC-AMR-,AM(CR),Spain,es,SLL,2,0,0,1,0,0,Carles Aleñá,Carles,Aleñá,303268,Midfielder,65,Barcelona,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.0600000000000005,46,1,536
+0,0,19,false,true,,Defender,Spain,,SLL,1,0,0,0,0,0,Stephane Paul Keller,Stephane Paul,Keller,409080,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.06,16,0,537
+183,70,25,false,true,-FW-,FW,Spain,es,SLL,3,0,1,0,0,0,Marc Cardona,Marc,Cardona,331255,Forward,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.0566666666666675,51,1,538
+185,75,24,false,true,,Forward,Spain,es,SLL,1,0,0,0,0,0,Darío Poveda,Darío,Poveda,331699,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.05,4,0,539
+169,67,28,false,true,-MC-,M(C),Spain,ng,SLL,2,0,0,1,0,1,Ramón Azeez,Ramón,Azeez,118266,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.05,100,2,540
+187,74,20,false,true,-DR-,D(R),Spain,pt,SLL,3,0,0,0,0,0,Tomás Tavares,Tomás,Franco Tavares,382647,Defender,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.046666666666667,62,0,541
+180,71,35,false,true,-DR-,D(R),Spain,es,SLL,2,0,0,0,0,0,Javi Moyano,Javier,Moyano Lujano,135330,Defender,58,Real Valladolid,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.035,104,0,542
+183,75,23,false,true,-FW-,FW,Spain,it,SLL,7,0,1,2,0,0,Patrick Cutrone,Patrick,Cutrone,329681,Forward,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.032857142857144,100,3,543
+180,73,29,false,true,,Midfielder,Spain,es,SLL,11,0,0,0,0,0,Luismi,Luis Miguel,Sánchez Benítez,142114,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.031818181818181,163,0,544
+185,73,29,false,true,-AMR-FW-,"AM(R),FW",Spain,es,SLL,5,0,0,0,0,0,Rubén Sobrino,Rubén,Sobrino,323250,Forward,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.026000000000001,45,0,545
+0,0,22,false,true,,Midfielder,Spain,es,SLL,2,0,0,0,0,0,Sergi García,Sergi,García,400149,Midfielder,60,Deportivo Alaves,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.025,17,0,546
+0,0,22,false,true,,Midfielder,Spain,gh,SLL,3,0,0,0,0,0,Sabit Abdulai,Sabit,Abdulai,408415,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.023333333333333,58,0,547
+181,76,23,false,true,,Midfielder,Spain,ng,SLL,5,0,0,0,0,0,Kelechi Nwakali,Kelechi,Nwakali,345359,Midfielder,5006,SD Huesca,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.022,139,0,548
+0,0,19,false,true,,Midfielder,Spain,fr,SLL,2,0,0,0,0,0,Koba Koindredi,Koba,Koindredi,396456,Midfielder,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.02,13,0,549
+177,78,31,false,true,,Forward,Spain,es,SLL,12,0,1,3,0,0,Quique González,Enrique,González Casín,82789,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.009166666666665,163,4,550
+169,68,41,false,true,-AMC-,AM(C),Spain,es,SLL,16,0,1,1,0,1,Nino,Juan Francisco,Martinez Modesto,14189,Forward,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6.000624999999999,273,3,551
+0,0,19,false,true,,Midfielder,Spain,,SLL,1,0,0,0,0,0,Álex Blesa,Alejandro,Blesa,395849,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,10,0,552
+175,67,27,false,true,-DL-,D(L),Spain,es,SLL,1,0,0,0,0,0,David Juncà,David,Juncà,140925,Defender,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,1,0,553
+0,0,17,false,true,,Midfielder,Spain,,SLL,1,0,0,0,0,0,Hugo Sotelo,Hugo,Sotelo,415345,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,1,0,554
+0,0,19,false,true,,Forward,Spain,,SLL,1,0,0,1,0,0,Mamor Niang,Mamor,Niang,409100,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,21,1,555
+0,0,18,false,true,,Forward,Spain,es,SLL,4,0,0,0,0,0,Miguel Rodriguez,Miguel,Rodriguez,399952,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,26,0,556
+182,78,31,false,true,,Midfielder,Spain,es,SLL,1,0,0,0,0,0,Ramón Folch,Ramón,Folch,280176,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,1,0,557
+187,71,21,false,true,,Defender,Spain,es,SLL,1,0,0,0,0,0,Sergio Cubero,Sergio,Cubero,389398,Defender,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,6,1,0,558
+183,79,30,false,true,-FW-,FW,Spain,ar,SLL,13,0,2,3,0,2,Facundo Ferreyra,Facundo,Ferreyra,125293,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.998461538461539,293,7,559
+178,74,21,false,true,,Midfielder,Spain,ge,SLL,3,0,0,1,0,0,Giorgi Kochorashvili,Giorgi,Kochorashvili,395346,Midfielder,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.986666666666667,22,1,560
+170,67,22,false,true,-AMR-,AM(R),Spain,,SLL,3,0,0,1,0,0,Bobby Adekanye,Omobolaji Habeeb,Adekanye,382238,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.976666666666667,34,1,561
+0,0,21,false,true,,Forward,Spain,,SLL,1,0,0,0,0,0,Álex Millán,Alejandro,Millán,408370,Forward,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.97,1,0,562
+184,0,24,false,true,,Midfielder,Spain,es,SLL,1,0,0,1,0,0,Sergio González,Sergio,González,400047,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.97,90,1,563
+186,81,27,false,true,,Goalkeeper,Spain,es,SLL,4,0,0,0,0,0,David Gil,David,Gil,137372,Goalkeeper,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.9675,360,0,564
+0,0,19,false,true,,Midfielder,Spain,,SLL,6,0,0,0,0,0,Gabriel Veiga,Gabriel,Veiga,399953,Midfielder,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.965000000000001,114,0,565
+182,74,24,false,true,-FW-,FW,Spain,es,SLL,2,0,0,0,0,0,Borja Mayoral,Borja,Mayoral,278721,Forward,52,Real Madrid,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.960000000000001,21,0,566
+179,72,22,false,true,,Forward,Spain,es,SLL,1,0,0,0,0,0,Daniel Plomer,Daniel,Plomer,405797,Forward,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.96,45,0,567
+0,0,17,false,true,,Midfielder,Spain,,SLL,6,0,0,0,0,2,John Patrick,John,Patrick,407353,Midfielder,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.96,60,2,568
+170,0,17,false,true,,Midfielder,Spain,,SLL,1,0,0,0,0,0,Álvaro Bastida,Álvaro,Bastida,415804,Midfielder,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.95,34,0,569
+178,77,26,false,true,,Forward,Spain,es,SLL,1,0,0,0,0,0,Nano Mesa,Alexander,Mesa Travieso,141616,Forward,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.94,8,0,570
+170,0,22,false,true,,Forward,Spain,gq,SLL,4,0,0,1,0,0,Josete Miranda,José Antonio,Miranda Boacho,413266,Forward,819,Getafe,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.9375,23,1,571
+191,72,24,false,true,-DC-,D(C),Spain,,SLL,3,0,0,0,0,0,Ferro,Francisco,Reis Ferreira,369558,Defender,55,Valencia,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.93,181,0,572
+180,67,20,false,true,,Midfielder,Spain,es,SLL,1,0,0,0,0,0,Isma Ruiz,Ismael,Ruiz,405794,Midfielder,925,Granada,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.93,67,0,573
+0,0,20,false,true,,Forward,Spain,,SLL,1,0,0,0,0,0,Lautaro de León,Lautaro,de León,407370,Forward,62,Celta Vigo,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.93,13,0,574
+175,70,22,false,true,,Forward,Spain,,SLL,4,0,0,0,0,1,Unai Arietaleanizbeaskoa,Unai,Arietaleanizbeaskoa,399949,Forward,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.915,43,1,575
+189,84,29,false,true,-GK-,GK,Spain,ar,SLL,3,0,0,0,0,0,Gerónimo Rulli,Gerónimo,Rulli,125375,Goalkeeper,839,Villarreal,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.906666666666666,181,0,576
+0,0,20,false,true,,Midfielder,Spain,,SLL,2,0,0,0,0,0,John Donald,John Nwankwo,Donald,408347,Midfielder,833,Elche,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.88,50,0,577
+0,0,21,false,true,,Defender,Spain,es,SLL,1,0,1,0,0,0,Marc Baró,Marc,Baró,400050,Defender,1354,Cadiz,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.84,90,1,578
+188,79,37,false,true,-GK-,GK,Spain,es,SLL,3,0,0,0,0,0,Rubén Martínez,Rubén,Martínez,9907,Goalkeeper,131,Osasuna,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.696666666666666,188,0,579
+188,88,25,false,true,-GK-,GK,Spain,es,SLL,2,0,0,0,0,0,Koke Vegas,Jorge,Ruiz Ojeda,323230,Goalkeeper,832,Levante,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.675,91,0,580
+0,0,22,false,true,,Midfielder,Spain,es,SLL,1,0,0,0,0,0,Unai Dufur,Unai,Dufur,396073,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.61,63,0,581
+0,0,22,false,true,,Midfielder,Spain,,SLL,1,0,0,1,0,0,Eñaut Mendía,Eñaut,Mendía,399950,Midfielder,824,Eibar,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.53,62,1,582
+193,82,24,false,true,,Goalkeeper,Spain,es,SLL,1,0,0,0,0,0,Jokin Ezkieta,Jokin,Ezkieta,362740,Goalkeeper,53,Athletic Bilbao,8321,2020/2021,true,4,206,es,Spain,LaLiga,5.49,90,0,583

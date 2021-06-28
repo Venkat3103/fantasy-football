@@ -1,0 +1,584 @@
+name,pos_details,total_shots,shots_on_target,total_passes,key_passes,appearances,assists,tackleWonTotal,interceptions,saves,red_cards,yellow_cards,own_goals,total_goals,tournament,mins_played
+Lionel Messi,Forward,196,91,2248,77,35,9,18,6,0,0,4,0,30,LaLiga,3023
+Ãngel JimÃ©nez,Goalkeeper,0,0,31,0,1,0,0,0,7,0,0,0,0,LaLiga,90
+Gerard Moreno,Forward,97,47,1056,44,33,7,24,15,0,0,3,0,23,LaLiga,2683
+Karim Benzema,Forward,123,55,1209,38,34,9,8,8,0,0,2,0,23,LaLiga,2902
+Ansu Fati,Forward,14,7,197,9,7,0,9,3,0,0,1,0,4,LaLiga,437
+Casemiro,Midfielder,46,11,1932,25,34,4,84,70,0,1,9,0,6,LaLiga,2903
+Iago Aspas,Forward,50,27,1224,62,33,13,11,16,0,0,9,0,14,LaLiga,2871
+Marcos Llorente,Midfielder,49,22,1243,44,37,11,71,29,0,0,6,0,12,LaLiga,2960
+Mikel Merino,Midfielder,33,10,1178,29,26,4,61,32,0,0,5,0,2,LaLiga,2157
+Toni Kroos,Midfielder,34,12,2021,67,28,10,42,15,0,0,6,0,3,LaLiga,2122
+Joselu,Forward,93,33,1013,30,37,3,27,15,0,0,1,0,11,LaLiga,3038
+Kieran Trippier,Defender,3,1,1490,34,28,6,61,40,0,0,0,0,0,LaLiga,2477
+Lucas VÃ¡zquez,Midfielder,21,8,1223,44,24,5,61,19,0,0,3,0,2,LaLiga,1851
+Geoffrey Kondogbia,Midfielder,4,2,187,0,5,0,16,8,0,0,1,0,0,LaLiga,441
+Diego Llorente,Defender,0,0,58,0,1,0,1,2,0,0,0,0,0,LaLiga,90
+Antoine Griezmann,Forward,71,34,1316,42,36,7,37,12,0,0,4,0,13,LaLiga,2621
+Javi GalÃ¡n,Defender,9,1,1311,42,37,2,88,39,0,0,5,0,1,LaLiga,3068
+Yannick Carrasco,Midfielder,43,24,846,47,30,10,27,17,0,0,6,0,6,LaLiga,2189
+Luis SuÃ¡rez,Forward,104,43,575,27,32,3,11,5,0,0,6,0,21,LaLiga,2521
+Luka Modric,Midfielder,45,15,2210,50,35,3,37,48,0,0,4,0,5,LaLiga,2744
+Frenkie de Jong,Midfielder,17,6,2785,49,37,4,44,38,0,0,5,0,3,LaLiga,3159
+Nabil Fekir,Forward,86,28,1176,51,33,5,45,8,0,1,5,0,5,LaLiga,2637
+JosÃ© CampaÃ±a,Midfielder,13,5,463,14,9,2,14,13,0,0,1,0,1,LaLiga,747
+Daniel Parejo,Midfielder,27,9,2668,43,36,4,65,45,0,0,5,0,3,LaLiga,3120
+Thomas Partey,Midfielder,5,0,220,0,3,0,7,2,0,0,1,0,0,LaLiga,199
+Jony Ãlamo,Forward,1,0,16,0,1,0,2,1,0,0,0,0,0,LaLiga,74
+Carlos Soler,Midfielder,37,17,1431,45,32,8,41,23,0,0,7,0,11,LaLiga,2737
+Mikel Oyarzabal,Forward,62,27,812,51,33,8,30,15,0,0,1,0,11,LaLiga,2432
+Alexander Isak,Forward,81,42,429,10,34,2,9,3,0,0,4,0,17,LaLiga,2361
+Rober Correa,Defender,6,0,457,11,15,2,16,20,0,0,3,0,0,LaLiga,1140
+Ousmane DembÃ©lÃ©,Forward,55,23,922,39,30,3,14,9,0,0,2,0,6,LaLiga,1781
+Jules KoundÃ©,Defender,21,6,2357,10,34,1,27,40,0,0,4,0,2,LaLiga,2976
+Fernando,Midfielder,6,4,1575,19,31,4,54,41,0,0,6,0,3,LaLiga,2547
+Jordi Alba,Defender,27,10,2569,53,35,5,45,49,0,0,9,1,3,LaLiga,3030
+David Silva,Midfielder,20,3,834,28,21,5,19,13,0,0,4,0,2,LaLiga,1408
+Emerson,Defender,11,3,1531,33,34,4,91,61,0,1,9,1,1,LaLiga,2993
+Bryan Gil,Forward,40,16,790,49,28,3,28,17,0,0,6,0,4,LaLiga,2273
+Manu SÃ¡nchez,Defender,0,0,25,1,1,1,0,0,0,0,0,0,0,LaLiga,50
+Sergio Barcia,Midfielder,0,0,23,0,1,0,1,3,0,0,1,0,0,LaLiga,90
+Sergio Ramos,Defender,17,6,1103,4,15,0,15,19,0,0,3,0,2,LaLiga,1277
+Sergio Canales,Midfielder,47,13,1655,59,31,6,16,13,0,0,4,0,8,LaLiga,2502
+Guido RodrÃ­guez,Midfielder,30,9,1631,11,35,0,98,68,0,0,10,0,1,LaLiga,2873
+Kike GarcÃ­a,Forward,87,34,831,27,37,2,24,7,0,1,2,0,12,LaLiga,3105
+Ãngel Correa,Forward,52,23,855,38,38,8,38,22,0,0,3,0,9,LaLiga,2412
+Daniel Carvajal,Defender,9,2,668,9,13,2,27,13,0,0,5,0,0,LaLiga,952
+Lucas Ocampos,Midfielder,69,21,883,33,34,4,36,19,0,0,3,0,5,LaLiga,2648
+Stefan Savic,Defender,7,2,1740,2,33,0,40,42,0,0,15,0,1,LaLiga,2954
+Koke,Midfielder,17,7,2413,38,37,2,64,36,0,0,9,0,1,LaLiga,3026
+Maximiliano GÃ³mez,Forward,54,25,549,13,31,1,11,2,0,1,6,0,7,LaLiga,2699
+Suso,Midfielder,48,17,1092,44,34,4,20,8,0,0,2,0,3,LaLiga,2234
+JesÃºs Navas,Defender,15,2,1642,64,34,6,27,37,0,0,4,0,0,LaLiga,2836
+Sergio Busquets,Midfielder,3,1,2682,30,36,5,63,53,0,0,9,0,0,LaLiga,2530
+Renato Tapia,Midfielder,17,5,1587,9,32,1,93,53,0,0,11,0,0,LaLiga,2710
+Youssef En-Nesyri,Forward,78,29,377,14,38,0,17,8,0,0,2,0,18,LaLiga,2314
+Jan Oblak,Goalkeeper,0,0,872,0,38,0,0,0,100,0,0,1,0,LaLiga,3420
+Santi Mina,Forward,45,22,600,15,34,3,31,6,0,0,4,0,12,LaLiga,2423
+Eder MilitÃ£o,Defender,12,3,778,0,14,0,20,19,0,1,3,0,1,LaLiga,1134
+Fidel,Midfielder,18,8,977,46,30,3,46,16,0,0,8,0,6,LaLiga,2404
+Mauro Arambarri,Midfielder,46,9,962,21,34,0,64,42,0,0,11,0,3,LaLiga,2990
+Raphael Varane,Defender,17,4,1766,4,31,0,22,36,0,0,2,1,2,LaLiga,2717
+Jasper Cillessen,Goalkeeper,0,0,278,0,10,0,0,0,34,0,0,0,0,LaLiga,900
+Marcos AcuÃ±a,Defender,18,2,1439,32,30,2,62,23,0,0,5,0,1,LaLiga,2331
+Ferland Mendy,Defender,12,2,1266,18,26,0,26,26,0,0,3,0,1,LaLiga,2207
+David GarcÃ­a,Defender,13,2,1370,5,35,0,26,59,0,0,8,1,1,LaLiga,3150
+Jawad El Yamiq,Defender,8,2,628,2,19,1,21,46,0,0,6,0,0,LaLiga,1377
+GonÃ§alo Guedes,Midfielder,51,15,739,34,31,5,18,8,0,1,3,0,5,LaLiga,2301
+Thomas Lemar,Midfielder,23,11,722,21,27,3,30,11,0,0,4,0,1,LaLiga,1376
+Yeray Ãlvarez,Defender,10,1,1095,6,23,0,19,53,0,0,6,0,1,LaLiga,1949
+Alex Berenguer,Forward,48,15,753,38,35,4,47,18,0,0,4,0,8,LaLiga,2289
+Nolito,Forward,55,23,938,35,36,5,70,22,0,0,7,0,7,LaLiga,2628
+Adnan Januzaj,Midfielder,32,13,476,23,27,5,9,3,0,0,2,0,4,LaLiga,1011
+Iker Muniain,Forward,23,11,946,35,28,3,20,11,0,0,1,0,5,LaLiga,1955
+Carlos DomÃ­nguez,Defender,1,1,157,2,4,0,5,6,0,0,2,0,0,LaLiga,360
+Joan JordÃ¡n,Midfielder,24,4,1973,38,35,6,52,27,0,1,6,0,1,LaLiga,2424
+Sergio Escudero,Defender,6,1,328,6,9,0,12,9,0,0,3,0,1,LaLiga,567
+Gabriel Paulista,Defender,15,6,1501,6,31,1,17,59,0,0,6,0,4,LaLiga,2717
+Florian Lejeune,Defender,23,6,1463,7,34,1,43,51,0,0,10,0,1,LaLiga,3016
+Aridane HernÃ¡ndez,Defender,2,0,717,5,24,0,20,34,0,1,3,0,0,LaLiga,2028
+Daniel Wass,Midfielder,38,12,1445,38,35,1,52,47,0,0,8,0,4,LaLiga,2991
+Luis Milla,Midfielder,10,3,502,17,16,1,22,24,0,0,1,0,1,LaLiga,1259
+Mario Hermoso,Defender,18,5,1771,10,31,1,55,36,0,0,5,1,1,LaLiga,2584
+Aritz Elustondo,Defender,5,1,1223,3,23,0,30,15,0,0,5,1,1,LaLiga,1887
+Gerard PiquÃ©,Defender,9,2,1238,2,19,0,16,26,0,0,4,0,0,LaLiga,1486
+Yangel Herrera,Midfielder,33,7,871,11,32,1,59,26,0,0,7,0,3,LaLiga,2314
+Lucas TorrÃ³,Midfielder,17,8,667,6,25,1,32,27,0,0,4,0,0,LaLiga,1547
+Ante Budimir,Forward,47,22,391,9,30,0,20,2,0,0,3,0,11,LaLiga,1622
+Antonio Sivera,Goalkeeper,0,0,18,0,1,0,0,0,1,0,0,0,0,LaLiga,72
+Philippe Coutinho,Midfielder,28,10,485,6,12,2,8,2,0,0,0,0,2,LaLiga,657
+Nacho,Defender,11,3,1199,4,24,0,27,40,0,0,8,0,1,LaLiga,2000
+Federico Valverde,Midfielder,22,8,743,22,24,1,25,22,0,0,0,0,3,LaLiga,1333
+RubÃ©n GarcÃ­a,Midfielder,30,8,1014,53,37,5,50,29,0,0,2,0,3,LaLiga,2739
+JosÃ© GimÃ©nez,Defender,14,5,1102,4,21,0,20,21,0,0,5,0,0,LaLiga,1766
+Pablo Maffeo,Defender,11,5,775,17,25,4,26,35,0,0,4,0,1,LaLiga,1977
+Thibaut Courtois,Goalkeeper,0,0,1077,0,38,0,0,1,89,0,0,0,0,LaLiga,3420
+Mario Gaspar,Defender,16,3,884,12,25,2,55,30,0,1,3,0,0,LaLiga,1852
+Ã“scar Mingueza,Defender,12,6,1595,8,27,2,52,20,0,0,4,0,2,LaLiga,1907
+Sandro RamÃ­rez,Forward,30,18,300,10,20,1,13,10,0,0,2,0,5,LaLiga,1294
+Iza,Defender,11,3,780,13,32,1,68,49,0,0,3,0,0,LaLiga,2587
+Unai NÃºÃ±ez,Defender,12,5,1184,6,25,1,23,31,0,0,6,0,1,LaLiga,2108
+Hugo Mallo,Defender,20,11,1351,17,31,1,58,37,0,0,8,0,3,LaLiga,2604
+Pau Torres,Defender,8,3,2058,6,33,2,17,23,0,0,2,1,2,LaLiga,2970
+Dimitrios Siovas,Defender,29,8,1852,6,36,0,46,62,0,0,5,0,2,LaLiga,3073
+Papu GÃ³mez,Midfielder,18,10,551,17,18,1,9,7,0,0,0,0,3,LaLiga,917
+Claudio Bravo,Goalkeeper,0,0,565,3,20,0,0,0,52,0,3,0,0,LaLiga,1800
+SaÃºl Ã‘Ã­guez,Midfielder,33,13,1118,23,33,1,57,19,0,0,10,0,2,LaLiga,2034
+Ãlex Moreno,Defender,11,3,946,17,23,2,42,35,0,0,4,0,0,LaLiga,1787
+Pedri,Midfielder,25,9,1694,39,37,3,44,33,0,0,2,0,3,LaLiga,2430
+Brais MÃ©ndez,Midfielder,50,22,1145,18,34,0,59,32,0,0,8,0,9,LaLiga,2679
+Ãlvaro Negredo,Forward,48,21,560,20,35,4,11,3,0,1,3,0,8,LaLiga,2217
+Sergio Herrera,Goalkeeper,0,0,1069,1,33,0,0,3,88,0,2,0,0,LaLiga,2957
+David Ferreiro,Midfielder,26,12,823,73,37,4,25,25,0,0,5,0,2,LaLiga,2543
+Ronald Araujo,Defender,12,4,1065,3,24,1,22,20,0,0,3,0,2,LaLiga,1509
+Paulo Oliveira,Defender,13,3,1219,2,31,1,42,59,0,0,4,0,0,LaLiga,2640
+Alberto Perea,Forward,28,6,452,13,27,3,28,21,0,0,0,0,2,LaLiga,1552
+Denis SuÃ¡rez,Midfielder,16,3,1902,46,35,9,64,22,0,0,10,0,0,LaLiga,2864
+JoÃ£o FÃ©lix,Forward,39,16,667,21,31,5,8,5,0,0,6,0,7,LaLiga,1570
+Sergi Roberto,Defender,5,1,799,13,15,2,9,10,0,0,1,0,1,LaLiga,947
+Darwin MachÃ­s,Forward,48,21,436,25,32,5,30,22,0,0,1,0,5,LaLiga,2035
+Yuri Berchiche,Defender,16,6,853,17,23,3,24,11,0,0,3,0,1,LaLiga,1685
+Rafa Mir,Forward,120,46,423,9,38,1,15,15,0,0,2,0,13,LaLiga,2880
+RubÃ©n Sobrino,Forward,9,5,245,11,16,0,29,15,0,0,3,0,1,LaLiga,1115
+Felipe,Defender,12,2,1045,4,31,0,29,36,0,0,8,1,0,LaLiga,2053
+Antonio Blanco,Midfielder,2,0,167,2,4,0,7,3,0,0,0,0,0,LaLiga,218
+Juan Iglesias,Defender,4,1,152,4,10,0,27,17,0,0,2,0,0,LaLiga,605
+MathÃ­as Olivera,Defender,19,4,831,21,31,0,61,31,0,0,6,0,0,LaLiga,2619
+Edu ExpÃ³sito,Midfielder,43,9,1065,43,31,3,51,22,0,0,4,0,0,LaLiga,2461
+JosÃ© GayÃ,Defender,24,5,1170,36,33,7,59,38,0,0,6,0,1,LaLiga,2848
+Juan Foyth,Defender,1,0,692,3,16,0,40,19,0,0,5,0,0,LaLiga,1170
+Lucas Olaza,Defender,11,2,808,14,18,2,25,24,0,0,4,1,0,LaLiga,1618
+Jaume DomÃ©nech,Goalkeeper,0,0,786,0,28,0,1,0,90,0,1,0,0,LaLiga,2520
+RubÃ©n Duarte,Defender,14,2,994,29,31,1,55,66,0,1,5,0,1,LaLiga,2551
+Yassine Bounou,Goalkeeper,1,1,948,1,33,0,1,0,80,0,3,1,1,LaLiga,2970
+Renan Lodi,Defender,11,3,575,12,23,2,30,16,0,0,3,0,1,LaLiga,1126
+Alfonso Espino,Defender,8,4,715,15,32,3,92,41,0,0,6,0,0,LaLiga,2609
+Marcelo,Defender,12,0,733,16,16,2,25,10,0,0,3,0,0,LaLiga,1052
+Andoni Gorosabel,Defender,9,2,1101,23,32,1,76,23,0,0,3,0,0,LaLiga,2391
+Thierry Correia,Defender,8,2,936,18,29,1,47,42,0,1,4,0,1,LaLiga,2140
+Vicente Iborra,Midfielder,3,0,598,2,13,0,18,14,0,0,4,0,0,LaLiga,928
+Marc Cucurella,Midfielder,26,8,1101,39,37,2,63,40,0,0,8,0,3,LaLiga,3250
+Javier Ontiveros,Midfielder,36,10,428,18,20,1,21,9,0,0,5,0,2,LaLiga,915
+Miguel GutiÃ©rrez,Defender,0,0,229,4,6,1,4,5,0,0,0,0,0,LaLiga,314
+Diego Carlos,Defender,15,5,1879,8,33,0,22,31,0,1,9,1,1,LaLiga,2791
+Jorge de Frutos,Midfielder,26,11,587,41,37,9,48,16,0,0,3,0,4,LaLiga,2187
+JosÃ© Luis Morales,Midfielder,58,27,624,34,38,3,18,11,0,0,3,0,13,LaLiga,2455
+Robin Le Normand,Defender,18,1,1700,4,33,1,34,36,0,1,5,0,0,LaLiga,2748
+Asier Illarramendi,Midfielder,0,0,270,1,6,0,5,5,0,0,2,0,0,LaLiga,343
+AarÃ³n Escandell,Goalkeeper,0,0,145,0,5,0,1,0,16,0,1,0,0,LaLiga,450
+Uros Racic,Midfielder,35,10,1047,10,31,1,38,26,0,0,6,0,1,LaLiga,2191
+Etienne Capoue,Midfielder,8,3,761,3,16,0,20,20,0,1,5,0,1,LaLiga,1195
+Marco Asensio,Forward,39,11,891,33,35,2,12,11,0,0,1,0,5,LaLiga,1876
+AÃ¯ssa Mandi,Defender,8,7,1521,4,28,1,30,39,0,2,5,0,3,LaLiga,2394
+JosÃ© Mari,Midfielder,17,4,458,8,22,0,32,27,0,0,5,0,1,LaLiga,1462
+DjenÃ© Dakonam,Defender,2,0,1006,6,34,1,61,42,0,2,6,0,0,LaLiga,2945
+Lucas BoyÃ©,Forward,58,22,631,14,34,2,47,19,0,1,7,0,7,LaLiga,2713
+Nacho Monreal,Defender,12,1,978,11,26,1,31,31,0,0,1,0,1,LaLiga,2082
+Eden Hazard,Forward,10,5,335,6,14,2,3,3,0,0,0,0,3,LaLiga,533
+Manu Trigueros,Midfielder,30,8,1579,35,35,7,51,17,0,1,6,0,1,LaLiga,2540
+Miguel Ãngel Rubio,Defender,1,0,53,0,2,0,0,3,0,0,0,0,0,LaLiga,135
+RaÃºl GarcÃ­a,Defender,3,3,187,5,8,0,10,9,0,0,2,0,1,LaLiga,502
+RubÃ©n PeÃ±a,Midfielder,6,2,473,6,19,1,25,13,0,0,1,0,1,LaLiga,1113
+Guido Carrillo,Forward,26,8,300,8,21,2,9,4,0,0,3,0,3,LaLiga,1001
+IÃ±aki Williams,Forward,53,17,516,30,38,6,11,5,0,0,1,0,6,LaLiga,2393
+Gonzalo Melero,Midfielder,27,9,1032,21,29,1,24,18,0,0,4,0,7,LaLiga,1857
+Anaitz Arbilla,Defender,27,2,1697,10,34,1,45,69,0,0,8,0,0,LaLiga,2803
+Edgar Badia,Goalkeeper,0,0,1005,0,30,0,1,0,95,0,0,0,0,LaLiga,2700
+Kenedy,Forward,37,11,248,17,28,3,22,26,0,0,3,0,4,LaLiga,1479
+JoaquÃ­n,Midfielder,10,5,675,32,27,5,9,17,0,0,2,0,2,LaLiga,1298
+Alfonso Pedraza,Midfielder,22,8,931,27,29,2,35,34,0,0,8,1,1,LaLiga,2102
+Sergi GÃ³mez,Defender,1,0,543,1,9,0,4,6,0,0,2,0,0,LaLiga,723
+Ãlvaro FernÃ¡ndez,Goalkeeper,1,0,694,1,22,0,1,2,64,0,0,0,0,LaLiga,1980
+Ander Capa,Defender,12,6,855,16,28,1,37,25,0,0,5,0,2,LaLiga,2141
+Rodrygo,Forward,25,5,388,19,22,6,15,7,0,0,0,0,1,LaLiga,979
+Victor Chust,Defender,0,0,75,0,2,0,1,1,0,0,0,0,0,LaLiga,94
+Lucas Olaza,Defender,11,3,505,15,14,1,20,15,0,0,4,0,1,LaLiga,1260
+Marc Bartra,Defender,10,4,958,3,19,1,27,40,0,0,3,0,0,LaLiga,1695
+Jonathan Calleri,Forward,47,16,343,10,25,2,15,1,0,0,4,0,5,LaLiga,1559
+Carlos Clerc,Defender,6,4,1335,23,35,3,56,37,0,0,5,0,0,LaLiga,2777
+RubÃ©n Rochina,Midfielder,35,7,786,16,25,1,38,22,0,0,5,0,0,LaLiga,1407
+Neto,Goalkeeper,0,0,204,0,7,0,0,0,18,0,0,0,0,LaLiga,630
+Lucas PÃ©rez,Forward,32,13,515,53,28,4,6,2,0,0,1,0,4,LaLiga,1769
+SergiÃ±o Dest,Defender,14,5,1115,23,30,1,31,10,0,0,1,0,2,LaLiga,1919
+Carlos Akapo,Defender,2,1,234,2,13,0,18,19,0,1,1,0,1,LaLiga,867
+Juan Miranda,Defender,10,3,715,12,22,2,27,29,0,0,4,0,1,LaLiga,1653
+Ilaix Moriba,Midfielder,13,3,370,7,14,2,14,5,0,0,1,0,1,LaLiga,538
+Gonzalo VerdÃº,Defender,11,4,1583,6,33,2,34,52,0,0,11,0,0,LaLiga,2945
+Marc-AndrÃ© ter Stegen,Goalkeeper,1,0,886,1,31,0,0,0,76,0,1,0,0,LaLiga,2790
+VÃ­ctor Ruiz,Defender,4,4,1295,2,27,0,11,44,0,0,9,2,2,LaLiga,2158
+Ãlvaro Odriozola,Defender,3,2,351,8,13,0,14,6,0,0,0,0,2,LaLiga,830
+Ramiro Funes Mori,Defender,4,1,477,0,10,0,12,8,0,0,1,0,0,LaLiga,726
+VinÃ­cius JÃºnior,Forward,40,13,739,33,35,3,32,7,0,0,3,0,3,LaLiga,1975
+Roque Mesa,Midfielder,26,5,867,16,25,0,46,14,0,1,4,0,1,LaLiga,1772
+MartÃ­n Zubimendi,Midfielder,7,1,1110,7,31,0,41,40,0,0,6,0,0,LaLiga,1873
+Antonio Sanabria,Forward,25,12,218,3,16,0,5,3,0,0,2,0,3,LaLiga,936
+Aleix Vidal,Defender,1,0,429,6,12,1,9,12,0,0,2,0,0,LaLiga,590
+Ã“scar Plano,Forward,40,10,783,25,36,5,42,34,0,1,1,0,5,LaLiga,2530
+Lee Kang-In,Midfielder,25,7,499,22,24,4,15,2,0,0,1,0,0,LaLiga,1267
+Nemanja Maksimovic,Midfielder,17,5,759,19,35,0,50,58,0,0,5,0,1,LaLiga,2745
+Moi GÃ³mez,Midfielder,23,11,1241,32,35,0,21,11,0,0,1,0,4,LaLiga,2573
+Ãlex FernÃ¡ndez,Midfielder,10,4,795,23,25,1,19,22,0,0,1,0,4,LaLiga,1950
+Nacho Vidal,Defender,10,2,763,12,34,0,56,43,0,0,10,0,0,LaLiga,2343
+JoaquÃ­n FernÃ¡ndez,Midfielder,8,3,776,2,25,0,30,43,0,0,8,0,1,LaLiga,2076
+Sime Vrsaljko,Defender,0,0,226,0,9,0,18,8,0,0,2,0,0,LaLiga,521
+Tete Morente,Midfielder,19,3,641,15,30,5,31,13,0,0,5,0,2,LaLiga,2027
+Cucho HernÃ¡ndez,Forward,28,11,466,20,23,3,19,6,0,0,5,0,2,LaLiga,1475
+Saidy Janko,Defender,3,1,425,9,19,1,19,18,0,0,4,0,0,LaLiga,1224
+Jeison Murillo,Defender,9,3,1626,3,31,0,45,36,0,1,9,0,2,LaLiga,2700
+Ivan Rakitic,Midfielder,40,10,1677,25,37,2,32,26,0,0,5,0,4,LaLiga,2243
+Roger MartÃ­,Forward,46,23,502,18,33,4,11,4,0,0,4,0,12,LaLiga,2209
+RaÃºl GarcÃ­a,Midfielder,47,14,558,15,34,1,34,15,0,2,6,0,5,LaLiga,1744
+HÃ©ctor Herrera,Midfielder,7,1,655,6,16,1,12,14,0,0,2,0,0,LaLiga,681
+ÃÃ±igo MartÃ­nez,Defender,18,7,1446,6,28,0,22,28,0,1,9,0,1,LaLiga,2520
+ClÃ©ment Lenglet,Defender,11,5,2300,9,33,0,36,33,0,2,7,1,1,LaLiga,2478
+Borja Iglesias,Forward,38,16,271,6,28,0,1,3,0,0,2,0,11,LaLiga,1414
+Ximo Navarro,Defender,13,3,789,8,31,1,54,47,0,0,6,0,1,LaLiga,2381
+Hugo GuillamÃ³n,Defender,7,1,1176,1,25,0,23,27,0,0,8,1,1,LaLiga,1991
+AarÃ³n MartÃ­n,Defender,5,1,672,6,19,3,34,13,0,0,1,0,0,LaLiga,1540
+Willian JosÃ©,Forward,14,9,230,8,13,1,3,0,0,0,0,0,3,LaLiga,689
+Esteban Burgos,Defender,6,5,554,2,14,1,7,23,0,0,5,0,3,LaLiga,1116
+Sergi Enrich,Forward,45,15,437,16,27,0,21,6,0,0,1,0,3,LaLiga,1402
+Daniel CÃ¡rdenas,Goalkeeper,0,0,221,0,8,0,0,3,28,0,1,0,0,LaLiga,720
+Jorge Pulido,Defender,17,4,1600,5,33,0,39,52,0,1,5,0,1,LaLiga,2886
+Kike Barja,Forward,22,12,426,16,33,3,10,16,0,0,2,0,2,LaLiga,1435
+RaÃºl Albiol,Defender,8,1,2051,4,35,0,22,22,0,0,7,0,0,LaLiga,3119
+Pablo HervÃ­as,Midfielder,14,7,525,30,27,5,19,11,0,0,1,0,0,LaLiga,1193
+Igor Zubeldia,Midfielder,9,3,1201,5,24,1,23,12,0,0,5,0,1,LaLiga,1958
+Josema,Defender,6,0,876,6,29,1,43,37,0,0,4,0,0,LaLiga,1968
+Sergio Asenjo,Goalkeeper,0,0,1115,0,36,0,0,0,80,0,2,0,0,LaLiga,3240
+Jorge MiramÃ³n,Defender,10,0,797,16,26,3,32,27,0,0,1,0,0,LaLiga,1734
+Aihen MuÃ±oz,Defender,4,1,517,6,16,1,23,10,0,0,6,0,0,LaLiga,1210
+Ã“scar Duarte,Defender,7,3,1230,4,29,0,22,36,0,0,2,0,1,LaLiga,2063
+Samuel Chukwueze,Midfielder,31,11,497,29,28,2,12,10,0,0,0,0,4,LaLiga,1363
+Enis Bardhi,Midfielder,36,13,801,21,26,2,28,21,0,0,4,0,1,LaLiga,1686
+Augusto Solari,Midfielder,5,3,178,10,16,2,18,6,0,0,2,0,2,LaLiga,478
+Josan,Midfielder,15,8,623,16,33,2,34,21,0,0,3,0,4,LaLiga,1935
+MickaÃ«l Malsa,Midfielder,24,7,1379,12,35,0,55,43,0,0,5,0,1,LaLiga,2342
+Ãlvaro Tejero,Defender,2,1,66,3,2,0,1,3,0,0,1,0,0,LaLiga,109
+Juan Cala,Defender,14,5,747,3,28,0,21,35,0,0,8,0,3,LaLiga,2275
+RÃºben Vezo,Defender,5,2,1343,3,32,0,34,46,0,0,7,1,1,LaLiga,2312
+Karim Rekik,Defender,2,0,430,3,11,0,7,6,0,0,2,0,0,LaLiga,651
+Jorge Molina,Forward,24,12,464,21,33,2,11,3,0,0,3,0,8,LaLiga,1614
+Ã“liver Torres,Midfielder,10,3,966,27,33,3,34,15,0,0,2,0,0,LaLiga,1397
+Carles AleÃ±Ã¡,Midfielder,30,8,520,25,22,2,15,2,0,0,1,0,2,LaLiga,1369
+Toni Villa,Midfielder,15,5,341,13,21,0,31,5,0,0,2,0,2,LaLiga,970
+IvÃ¡n Villar,Goalkeeper,0,0,600,0,21,0,0,0,48,0,1,0,0,LaLiga,1774
+Luis SuÃ¡rez,Forward,47,17,276,15,27,1,19,8,0,0,6,0,5,LaLiga,1670
+Enes Ãœnal,Forward,38,9,339,14,28,2,11,2,0,0,4,0,4,LaLiga,1322
+Paco AlcÃ¡cer,Forward,37,20,262,15,27,4,6,9,0,0,0,0,6,LaLiga,1557
+Samuel Umtiti,Defender,2,1,615,1,13,0,5,9,0,0,1,0,0,LaLiga,643
+Unai LÃ³pez,Midfielder,25,10,981,18,26,0,27,18,0,0,7,1,3,LaLiga,1425
+Aitor Ruibal,Forward,33,14,526,24,28,2,32,11,0,0,2,0,2,LaLiga,1606
+RaÃºl Guti,Midfielder,27,6,1277,7,36,1,48,49,0,1,3,0,3,LaLiga,2876
+Luis Rioja,Forward,24,9,512,25,35,2,21,20,0,0,4,0,4,LaLiga,2100
+Jaime Seoane,Midfielder,24,9,845,11,29,1,50,17,0,0,5,0,1,LaLiga,2066
+Junior Firpo,Defender,1,1,203,5,7,1,1,4,0,0,2,0,1,LaLiga,286
+FabiÃ¡n Orellana,Midfielder,30,16,676,32,30,2,33,15,0,0,5,0,6,LaLiga,2153
+RubÃ©n Alcaraz,Midfielder,28,3,1109,9,30,0,54,31,0,0,10,0,1,LaLiga,2170
+Pervis EstupiÃ±Ã¡n,Defender,10,5,503,17,25,0,37,35,0,0,1,0,0,LaLiga,1164
+Jens Jonsson,Midfielder,15,2,689,12,35,0,55,51,0,0,6,0,0,LaLiga,2629
+Antonio BarragÃ¡n,Defender,6,0,1109,10,27,3,28,33,0,0,8,0,0,LaLiga,2239
+Yeremi Pino,Forward,13,5,294,10,24,1,19,9,0,0,4,0,3,LaLiga,786
+Cristian Tello,Forward,35,14,469,20,29,3,16,11,0,1,0,0,5,LaLiga,1282
+Pablo Ãnsua,Defender,3,0,744,1,20,0,37,24,0,0,9,0,0,LaLiga,1588
+Pape Diop,Midfielder,28,9,866,12,33,1,43,39,0,2,7,0,1,LaLiga,2336
+Munir El Haddadi,Forward,31,12,324,11,24,2,12,5,0,0,2,0,4,LaLiga,839
+Dani GarcÃ­a,Midfielder,6,1,1026,8,27,1,39,33,0,0,8,0,0,LaLiga,1922
+Rafa Soares,Defender,2,0,473,15,19,1,28,20,0,0,2,0,0,LaLiga,1131
+Edgar MÃ©ndez,Midfielder,35,10,386,18,33,1,39,19,0,1,10,0,5,LaLiga,2105
+Maxime Gonalons,Midfielder,4,1,707,7,25,1,53,25,0,1,7,0,0,LaLiga,1483
+GermÃ¡n SÃ¡nchez,Defender,13,5,970,1,34,1,24,38,0,1,10,0,3,LaLiga,2638
+Antonio Puertas,Midfielder,26,11,551,17,35,5,27,12,0,0,6,0,3,LaLiga,2170
+Diego Costa,Forward,5,3,72,4,7,0,1,0,0,0,1,0,2,LaLiga,207
+Ãlex Remiro,Goalkeeper,0,0,1083,0,38,0,0,3,68,0,0,0,0,LaLiga,3420
+Ãngel Montoro,Midfielder,15,2,641,22,23,1,15,22,0,0,7,0,1,LaLiga,1371
+Ander Guevara,Midfielder,9,2,1415,14,31,1,35,25,0,0,5,0,1,LaLiga,2088
+Facundo Roncaglia,Defender,13,2,432,5,17,1,25,25,0,1,1,0,1,LaLiga,1236
+DamiÃ¡n SuÃ¡rez,Defender,10,2,933,19,31,0,59,31,0,1,12,0,1,LaLiga,2440
+Alberto Moreno,Defender,4,0,82,0,5,0,7,3,0,0,0,0,0,LaLiga,194
+Pere Milla,Forward,30,11,577,14,32,3,24,13,0,0,6,0,4,LaLiga,1987
+Marcos de Sousa,Forward,32,12,186,6,23,1,8,2,0,0,3,0,4,LaLiga,1171
+Bruno GonzÃ¡lez,Defender,5,2,796,1,27,0,26,37,0,0,8,0,1,LaLiga,2261
+Fali,Defender,10,2,704,8,34,0,42,32,0,0,11,0,0,LaLiga,2639
+David Soria,Goalkeeper,0,0,841,0,28,0,2,1,53,0,2,0,0,LaLiga,2520
+Manu SÃ¡nchez,Defender,3,1,402,14,16,4,27,8,0,0,4,0,0,LaLiga,974
+Mouctar Diakhaby,Defender,11,4,988,1,26,0,16,27,0,1,4,0,1,LaLiga,2082
+Vicente Esquerdo,Midfielder,1,0,94,2,4,0,7,8,0,0,1,0,0,LaLiga,233
+Quini,Defender,8,3,357,4,19,0,33,15,0,0,5,0,1,LaLiga,1187
+Portu,Forward,31,11,505,26,37,3,18,8,0,0,3,0,8,LaLiga,2190
+Domingos Quina,Midfielder,8,3,89,5,8,0,5,2,0,0,1,0,2,LaLiga,343
+Rodrigo Ely,Defender,4,2,162,3,8,0,5,7,0,0,1,0,1,LaLiga,470
+TomÃ¡s Pina,Midfielder,9,1,909,7,33,1,39,37,0,0,12,0,1,LaLiga,2590
+Diego Lainez,Midfielder,13,4,332,13,21,2,9,11,0,0,5,0,0,LaLiga,859
+Marvin Park,Midfielder,1,0,70,2,4,1,3,2,0,0,0,0,0,LaLiga,133
+Ivan Saponjic,Forward,11,6,81,0,9,0,1,1,0,0,2,0,1,LaLiga,387
+Joseph Aidoo,Defender,9,0,622,2,25,0,26,25,0,0,3,0,0,LaLiga,1285
+NÃ©stor AraÃºjo,Defender,6,0,1584,4,33,0,24,43,0,0,5,0,0,LaLiga,2424
+Pedro Mosquera,Midfielder,8,2,1204,13,27,0,38,31,0,0,1,0,0,LaLiga,2055
+Fernando Pacheco,Goalkeeper,0,0,964,0,38,0,2,2,84,0,1,0,0,LaLiga,3348
+Sidnei,Defender,1,0,521,0,11,0,9,16,0,0,1,0,0,LaLiga,695
+Jon Moncayola,Midfielder,38,10,1130,18,36,0,61,23,0,1,5,0,2,LaLiga,2665
+Jon Morcillo,Midfielder,24,8,383,25,30,2,16,15,0,0,3,0,2,LaLiga,1363
+AndrÃ©s Guardado,Midfielder,11,5,775,8,24,0,25,18,0,0,4,0,1,LaLiga,1322
+RubÃ©n YÃ¡Ã±ez,Goalkeeper,0,0,238,0,10,0,0,2,18,0,2,0,0,LaLiga,900
+Luuk de Jong,Forward,32,11,338,11,34,0,9,5,0,0,3,0,4,LaLiga,1264
+Isco,Midfielder,20,3,684,19,25,2,13,2,0,0,1,0,0,LaLiga,899
+JeremÃ­as Ledesma,Goalkeeper,0,0,945,0,32,0,1,0,83,0,0,0,0,LaLiga,2880
+Jon Guridi,Midfielder,8,2,357,4,17,1,19,10,0,0,2,0,0,LaLiga,828
+Allan-RomÃ©o Nyom,Defender,10,2,649,17,31,2,38,22,0,1,10,0,0,LaLiga,2334
+Sergio Postigo,Defender,1,0,870,3,22,0,16,33,0,0,4,1,0,LaLiga,1625
+Rui Silva,Goalkeeper,0,0,1005,1,32,0,1,2,83,0,1,0,0,LaLiga,2880
+Roberto Torres,Midfielder,48,15,665,19,35,1,15,16,0,0,0,0,7,LaLiga,1893
+Ã“scar De Marcos,Defender,6,5,595,12,25,2,28,12,0,0,2,0,1,LaLiga,1517
+Mikel Vesga,Midfielder,22,5,902,12,30,1,28,27,0,0,7,0,0,LaLiga,1722
+Carlos Bacca,Forward,20,12,159,5,23,0,9,3,0,0,1,0,5,LaLiga,782
+Rodrigo Battaglia,Midfielder,17,5,1034,3,32,0,38,29,0,1,10,0,1,LaLiga,2495
+Diego GonzÃ¡lez,Defender,5,2,742,1,19,0,11,20,0,0,5,1,1,LaLiga,1280
+Dani Calvo,Defender,8,4,771,0,23,0,20,11,0,0,3,0,2,LaLiga,1779
+Pedro LÃ³pez,Defender,3,0,487,7,22,1,23,16,0,0,2,0,0,LaLiga,1064
+Borja GarcÃ­a,Midfielder,14,2,543,20,21,0,13,10,0,0,0,0,1,LaLiga,1119
+Rober Pier,Defender,7,0,880,4,19,1,14,35,0,1,3,0,0,LaLiga,1427
+Marcos Mauro,Defender,6,4,489,2,24,0,23,22,0,1,2,0,2,LaLiga,1831
+Pepe Sanchez,Defender,1,0,66,2,3,0,4,4,0,0,0,0,0,LaLiga,254
+Mikel Rico,Midfielder,19,7,854,20,32,4,24,23,0,0,2,0,1,LaLiga,2200
+Anthony Lozano,Forward,35,14,246,11,29,1,12,3,0,0,5,0,3,LaLiga,1531
+Marko Dmitrovic,Goalkeeper,3,2,971,4,35,0,4,0,80,0,0,0,1,LaLiga,3121
+Mikel Balenziaga,Defender,3,1,733,8,23,1,26,7,0,0,0,0,0,LaLiga,1689
+Denis Cheryshev,Midfielder,20,6,272,16,21,3,19,12,0,0,3,0,0,LaLiga,1105
+Aitor FernÃ¡ndez,Goalkeeper,0,0,773,0,29,0,0,2,78,0,0,0,0,LaLiga,2610
+Eugeni Valderrama,Midfielder,0,0,76,2,3,0,2,5,0,0,0,0,0,LaLiga,114
+Kevin VÃ¡zquez,Defender,1,0,269,0,8,0,11,9,0,0,3,0,0,LaLiga,560
+Denis Vavro,Defender,8,2,316,1,11,0,7,11,0,0,1,1,0,LaLiga,616
+Ander Barrenetxea,Forward,23,7,369,15,31,0,29,6,0,0,7,0,3,LaLiga,1300
+Joseba Zaldua,Defender,2,1,282,7,12,0,15,6,0,0,3,0,0,LaLiga,636
+Helibelton Palacios,Defender,0,0,238,3,11,0,20,5,0,0,0,0,0,LaLiga,743
+Pedro Bigas,Defender,10,0,625,1,21,0,11,23,0,0,1,0,0,LaLiga,1530
+Nacho,Defender,8,1,794,22,23,1,43,29,0,1,3,0,0,LaLiga,1813
+Shon Weissman,Forward,39,17,331,19,32,1,12,8,0,0,3,0,6,LaLiga,2139
+VÃ­ctor Laguardia,Defender,8,3,1074,4,32,1,20,37,0,1,4,0,0,LaLiga,2636
+Unai GarcÃ­a,Defender,5,0,428,3,17,0,19,14,0,0,3,1,0,LaLiga,1244
+Oihan Sancet,Midfielder,18,6,346,12,24,2,8,5,0,0,2,0,2,LaLiga,1036
+Oier Sanjurjo,Defender,16,4,833,15,33,2,39,29,0,0,10,0,0,LaLiga,2088
+Cote,Defender,2,0,513,9,14,0,15,13,0,0,3,0,0,LaLiga,905
+Nemanja Radoja,Midfielder,6,0,679,3,21,2,23,19,0,0,1,0,0,LaLiga,1118
+Fernando NiÃ±o,Forward,14,7,128,3,17,0,8,2,0,0,1,0,3,LaLiga,594
+Jordi Masip,Goalkeeper,0,0,702,0,25,0,0,2,75,0,3,0,0,LaLiga,2250
+Jorge Pombo,Midfielder,14,4,165,7,12,0,7,2,0,0,1,0,1,LaLiga,519
+Miralem Pjanic,Midfielder,16,3,747,12,19,0,13,11,0,0,1,0,0,LaLiga,623
+Juan Cruz,Defender,1,0,609,11,26,0,36,15,0,0,4,0,0,LaLiga,1966
+Domingos Duarte,Defender,6,2,954,6,29,0,32,29,0,1,5,0,1,LaLiga,2365
+Johan Mojica,Defender,7,2,543,10,17,0,21,15,0,0,3,0,0,LaLiga,1206
+Carlos Neva,Defender,8,1,373,6,22,0,12,27,0,0,1,0,0,LaLiga,1800
+Kike PÃ©rez,Midfielder,15,4,515,12,24,0,26,17,0,0,3,0,0,LaLiga,1155
+Coke,Defender,9,2,390,5,17,0,24,14,0,0,1,0,0,LaLiga,839
+TrincÃ£o,Forward,23,12,372,8,28,2,4,1,0,0,1,0,3,LaLiga,683
+Roberto LÃ³pez,Forward,14,5,213,7,17,0,5,4,0,0,0,0,3,LaLiga,500
+Joel Robles,Goalkeeper,0,0,475,1,18,0,0,0,38,0,2,0,0,LaLiga,1620
+Dimitri Foulquier,Defender,8,4,748,10,32,4,35,26,0,0,7,1,0,LaLiga,2672
+Nikola Vukcevic,Midfielder,2,0,318,4,13,0,14,8,0,0,4,0,0,LaLiga,815
+Paulo Gazzaniga,Goalkeeper,0,0,219,1,8,0,1,1,14,0,3,0,0,LaLiga,720
+Abdoulaye Diaby,Forward,1,0,8,1,1,0,2,0,0,0,0,0,0,LaLiga,17
+Emre Mor,Forward,8,2,109,3,11,0,8,5,0,0,2,0,0,LaLiga,503
+Jon Pacheco Dozagarat,Defender,1,0,50,0,1,0,0,1,0,0,0,0,0,LaLiga,31
+Juan PÃ©rez,Goalkeeper,0,0,79,0,3,0,0,0,5,0,0,0,0,LaLiga,270
+VÃ­ctor DÃ­az,Defender,5,1,282,8,17,2,21,16,0,0,4,0,0,LaLiga,825
+Pedro LeÃ³n,Midfielder,19,5,248,19,24,2,9,7,0,0,2,0,1,LaLiga,938
+MartÃ­n Aguirregabiria,Defender,2,0,549,12,26,1,32,27,0,0,1,0,0,LaLiga,1557
+Xabier Etxeita,Defender,4,0,317,1,11,0,8,13,0,0,3,1,0,LaLiga,881
+Ã“scar RodrÃ­guez,Midfielder,10,2,296,11,20,0,15,10,0,0,1,0,0,LaLiga,498
+IvÃ¡n Marcone,Midfielder,2,0,1513,10,33,0,64,36,0,1,8,0,0,LaLiga,2651
+MartÃ­n Montoya,Defender,2,0,131,4,5,0,6,2,0,1,0,0,0,LaLiga,238
+Darko Brasanac,Midfielder,8,4,296,5,16,0,10,7,0,0,4,0,2,LaLiga,910
+Sergi Guardiola,Forward,36,11,500,11,29,2,11,7,0,0,5,0,1,LaLiga,1795
+Miguel Ãngel Atienza,Midfielder,5,0,337,4,12,0,20,9,0,0,1,0,0,LaLiga,838
+William Carvalho,Midfielder,15,6,959,9,27,0,19,11,0,1,4,0,2,LaLiga,1220
+Eliaquim Mangala,Defender,2,0,108,0,7,0,0,6,0,0,1,0,0,LaLiga,320
+Fran BeltrÃ¡n,Midfielder,19,7,765,4,32,0,30,16,0,0,3,0,3,LaLiga,1392
+Asier Villalibre,Forward,38,14,281,13,35,2,3,2,0,0,1,0,4,LaLiga,1586
+Tachi,Defender,3,0,354,2,13,0,11,11,0,1,3,0,0,LaLiga,849
+Takefusa Kubo,Midfielder,15,7,185,9,18,1,7,14,0,0,2,0,1,LaLiga,804
+Jony,Forward,10,4,283,19,22,2,7,14,0,0,0,0,0,LaLiga,869
+Takashi Inui,Midfielder,37,17,424,14,28,0,13,12,0,0,0,0,1,LaLiga,1829
+Roberto Navarro,Midfielder,0,0,20,1,1,0,1,1,0,0,0,0,0,LaLiga,34
+MartÃ­n Merquelanz,Forward,11,4,202,9,13,1,9,3,0,0,0,0,0,LaLiga,541
+Unai Vencedor,Midfielder,9,0,912,7,28,0,31,18,0,0,6,0,0,LaLiga,1703
+Francis Coquelin,Midfielder,4,0,501,4,22,0,19,21,0,0,4,0,0,LaLiga,730
+Sofian Chakla,Defender,3,1,245,1,11,0,12,14,0,0,5,1,0,LaLiga,896
+Bryan Gil,Forward,0,0,6,0,1,0,1,0,0,0,0,0,0,LaLiga,12
+AndrÃ©s FernÃ¡ndez,Goalkeeper,0,0,494,0,16,0,0,0,34,0,0,0,0,LaLiga,1440
+Erick Cabaco,Defender,5,0,467,0,20,0,24,13,0,0,8,0,0,LaLiga,1328
+Sergio Ãlvarez,Midfielder,6,2,686,6,27,0,42,22,0,0,3,0,0,LaLiga,1565
+IÃ±igo Vicente,Forward,1,0,47,4,3,0,1,0,0,0,0,0,0,LaLiga,49
+Pere Pons,Midfielder,9,4,339,8,23,0,20,7,0,0,1,0,2,LaLiga,1184
+JonÃ¡s Ramalho,Defender,0,0,95,1,5,0,5,2,0,0,0,0,0,LaLiga,304
+Javi MartÃ­nez,Midfielder,3,1,149,6,13,1,9,5,0,0,1,0,1,LaLiga,460
+Recio,Midfielder,14,3,386,14,17,0,17,4,0,0,5,0,1,LaLiga,731
+Deyverson,Forward,14,2,289,10,27,3,6,9,0,0,4,0,1,LaLiga,872
+Manu Vallejo,Forward,19,14,246,7,30,0,18,3,0,0,2,0,5,LaLiga,940
+Martin Braithwaite,Forward,23,7,276,12,29,2,8,6,0,0,3,0,2,LaLiga,1164
+Fede San Emeterio,Midfielder,3,0,540,4,24,0,25,28,0,0,7,0,0,LaLiga,1463
+Yunus Musah,Midfielder,6,2,408,8,32,0,21,15,0,0,2,0,1,LaLiga,1535
+Salvi SÃ¡nchez,Midfielder,17,5,400,18,28,0,18,20,0,0,5,0,2,LaLiga,1950
+Geoffrey Kondogbia,Midfielder,5,2,386,4,25,0,30,11,0,0,4,0,0,LaLiga,596
+TomÃ¡s Vaclik,Goalkeeper,0,0,123,0,5,0,0,0,9,0,0,0,0,LaLiga,450
+Oriol Rey,Midfielder,0,0,12,0,1,0,0,1,0,0,0,0,0,LaLiga,14
+IvÃ¡n Alejo,Midfielder,13,4,159,10,22,1,14,3,0,0,5,0,1,LaLiga,820
+Carlos FernÃ¡ndez,Forward,7,4,111,6,11,2,3,0,0,0,5,0,1,LaLiga,389
+Riqui Puig,Midfielder,4,2,345,5,14,0,5,1,0,0,1,0,1,LaLiga,283
+Unai SimÃ³n,Goalkeeper,0,0,859,1,37,0,1,0,69,0,1,0,0,LaLiga,3330
+David Timor,Midfielder,17,5,594,12,30,0,13,19,0,1,5,1,0,LaLiga,1388
+Yoshinori Muto,Forward,22,5,217,11,26,1,12,3,0,0,1,0,1,LaLiga,1122
+ÃÃ±igo Lekue,Defender,2,1,305,6,18,0,9,4,0,0,1,0,0,LaLiga,635
+Carlos FernÃ¡ndez,Forward,2,1,38,2,5,0,1,1,0,0,0,0,0,LaLiga,142
+Jaime Mata,Forward,40,19,552,15,33,0,12,6,0,1,10,0,5,LaLiga,2042
+Luis PÃ©rez,Defender,2,0,448,8,22,0,33,14,0,0,1,0,0,LaLiga,1298
+Alberto Cifuentes,Goalkeeper,0,0,65,1,2,0,0,0,2,0,0,0,0,LaLiga,180
+Alejandro Pozo,Midfielder,11,1,884,12,30,0,38,27,0,0,4,0,0,LaLiga,2187
+Aleix GarcÃ­a,Midfielder,3,1,250,12,11,1,5,8,0,0,1,0,0,LaLiga,437
+Alejandro Cantero,Midfielder,3,0,37,3,4,0,2,0,0,0,1,0,0,LaLiga,239
+Pedro AlcalÃ¡,Defender,2,0,280,0,13,0,8,16,0,0,2,1,0,LaLiga,908
+Roberto Soldado,Forward,30,12,329,9,29,0,7,4,0,1,6,0,9,LaLiga,1444
+Kenan Kodro,Forward,2,2,9,0,4,0,0,0,0,0,2,0,1,LaLiga,43
+Sergio Arribas,Midfielder,1,1,85,1,8,0,3,4,0,0,1,0,0,LaLiga,128
+Son,Defender,8,5,463,19,28,0,18,12,0,0,3,0,0,LaLiga,1092
+Lucas Torreira,Midfielder,3,1,312,3,19,0,8,12,0,0,2,0,1,LaLiga,507
+Jeison LucumÃ­,Forward,0,0,11,0,2,0,1,0,0,0,0,0,0,LaLiga,49
+MÃ­chel,Midfielder,10,5,642,11,22,0,18,9,0,0,3,0,2,LaLiga,945
+Paul Akouokou,Midfielder,0,0,185,2,10,0,11,6,0,1,3,0,0,LaLiga,377
+Juanmi,Forward,14,6,145,2,16,0,13,2,0,0,1,0,2,LaLiga,601
+Nemanja Gudelj,Midfielder,9,1,783,2,30,0,23,24,0,0,8,0,0,LaLiga,1025
+ToÃ±o,Defender,2,0,324,6,12,2,4,7,0,0,2,0,0,LaLiga,729
+Okay Yokuslu,Midfielder,3,0,274,5,12,0,14,10,0,1,4,0,0,LaLiga,454
+Sergio GÃ³mez,Midfielder,10,2,337,16,29,1,29,14,0,0,1,0,0,LaLiga,773
+Enric Gallego,Forward,14,4,248,7,22,2,6,1,0,0,2,0,0,LaLiga,803
+Ibai GÃ³mez,Midfielder,5,0,131,7,13,1,6,2,0,0,0,0,0,LaLiga,422
+GastÃ³n Silva,Defender,0,0,343,1,12,0,16,11,0,0,2,1,0,LaLiga,599
+Jota,Forward,12,6,193,2,17,0,7,6,0,0,1,0,1,LaLiga,665
+KÃ©vin Rodrigues,Defender,10,4,422,11,22,1,16,20,0,0,1,0,1,LaLiga,1094
+Jota,Midfielder,16,2,456,17,23,2,19,9,0,1,3,0,0,LaLiga,1408
+Mariano,Forward,15,6,105,2,16,0,4,0,0,0,0,0,1,LaLiga,508
+Dani GÃ³mez,Forward,31,8,319,11,34,2,4,2,0,0,3,0,2,LaLiga,1660
+Alfon,Forward,1,1,16,1,2,0,0,0,0,0,0,0,0,LaLiga,33
+Nico Williams,Forward,1,0,16,0,2,0,1,1,0,0,0,0,0,LaLiga,55
+Jaume Costa,Defender,2,0,192,5,14,1,10,6,0,0,1,0,0,LaLiga,346
+Sergio Carreira,Defender,2,1,91,1,3,0,3,1,0,0,0,0,1,LaLiga,261
+Ãlvaro GimÃ©nez,Forward,5,2,97,2,11,1,4,2,0,0,0,0,2,LaLiga,404
+AdriÃ¡n MarÃ­n,Defender,1,0,98,1,9,1,5,4,0,0,1,0,0,LaLiga,266
+Burgui,Midfielder,0,0,9,0,1,0,3,0,0,0,0,0,0,LaLiga,20
+Ãlex Blanco,Forward,7,2,126,8,13,0,8,8,0,0,1,0,1,LaLiga,580
+Facundo Pellistri,Midfielder,5,2,106,2,12,0,8,4,0,0,0,0,0,LaLiga,540
+Roberto JimÃ©nez,Goalkeeper,0,0,374,0,14,0,0,0,29,1,0,0,0,LaLiga,1171
+Javi SÃ¡nchez,Defender,3,0,367,4,16,0,15,15,0,0,3,0,0,LaLiga,920
+Modibo Sagnan,Defender,5,1,384,3,16,0,12,6,0,0,3,0,0,LaLiga,620
+Shinji Okazaki,Forward,19,5,169,6,25,1,7,4,0,0,1,0,1,LaLiga,1128
+Christian Oliva,Midfielder,2,1,102,2,9,2,2,6,0,0,0,0,0,LaLiga,193
+Kuki Zalazar,Forward,0,0,8,1,2,1,1,0,0,0,0,0,0,LaLiga,28
+Manu GarcÃ­a,Midfielder,11,1,400,6,26,0,24,12,0,1,7,0,0,LaLiga,1115
+Emiliano Rigoni,Forward,16,8,338,11,23,1,12,6,0,0,5,0,1,LaLiga,1142
+AdriÃ¡n LÃ³pez,Forward,10,3,184,4,17,1,3,0,0,0,0,0,1,LaLiga,474
+Kevin Gameiro,Forward,16,7,261,5,27,1,7,0,0,0,0,0,4,LaLiga,1070
+Idrissa Doumbia,Midfielder,4,0,415,2,23,0,15,7,0,0,4,0,0,LaLiga,770
+Toni Lato,Defender,2,2,293,3,15,0,13,10,0,0,3,1,1,LaLiga,727
+Fede Vico,Midfielder,10,4,280,8,20,0,10,12,0,0,1,0,0,LaLiga,768
+Edgar Sevikyan,Midfielder,0,0,4,0,1,0,0,0,0,0,0,0,0,LaLiga,7
+Ãlex Baena,Midfielder,2,1,51,2,6,0,4,1,0,0,0,0,0,LaLiga,137
+Omenuke Mfulu,Midfielder,3,0,343,2,20,0,18,11,0,0,4,0,0,LaLiga,789
+Kiko Olivas,Defender,0,0,104,0,5,0,3,7,0,0,1,0,0,LaLiga,173
+Chema RodrÃ­guez,Defender,3,1,167,2,10,0,11,10,0,1,3,0,0,LaLiga,557
+Dani Raba,Forward,6,1,75,2,5,0,2,0,0,0,0,0,0,LaLiga,146
+Oussama Idrissi,Forward,1,1,8,0,3,0,1,1,0,0,0,0,0,LaLiga,24
+Dani Escriche,Forward,10,1,260,8,23,1,9,8,0,1,5,0,1,LaLiga,851
+Ãlvaro Bravo,Midfielder,0,0,9,0,1,0,1,1,0,0,0,0,0,LaLiga,14
+Rodrigo SÃ¡nchez,Midfielder,5,0,237,8,15,0,3,2,0,0,0,0,0,LaLiga,532
+Guillem Molina,Defender,0,0,56,0,2,0,1,4,0,0,1,0,0,LaLiga,153
+Luka Jovic,Forward,6,1,39,2,4,0,0,0,0,0,0,0,0,LaLiga,149
+JesÃºs Vallejo,Defender,1,0,501,1,21,0,11,13,0,1,2,0,0,LaLiga,1349
+Martin Ã˜degaard,Midfielder,3,0,162,5,7,0,1,1,0,0,0,0,0,LaLiga,233
+Jon Ander Garrido,Midfielder,5,1,228,2,23,0,18,14,0,0,1,0,0,LaLiga,792
+IÃ±igo PÃ©rez,Midfielder,8,2,561,14,22,0,20,15,0,1,2,0,0,LaLiga,1356
+Nehuen PÃ©rez,Defender,5,1,196,0,14,0,6,12,0,0,4,0,0,LaLiga,740
+Pablo Piatti,Midfielder,4,3,108,3,9,0,8,2,0,0,1,0,0,LaLiga,359
+Ante Palaversa,Midfielder,0,0,7,2,2,0,0,0,0,0,0,0,0,LaLiga,7
+Cifu,Defender,3,0,163,0,11,0,10,8,0,0,1,0,0,LaLiga,449
+Jairo Izquierdo,Midfielder,10,3,373,7,30,0,21,14,0,0,4,0,1,LaLiga,1270
+IÃ±igo CÃ³rdoba,Midfielder,1,0,67,3,7,0,6,3,0,0,0,0,0,LaLiga,216
+Jordan Holsgrove,Midfielder,1,0,101,1,5,0,6,2,0,0,0,0,0,LaLiga,142
+Loren MorÃ³n,Forward,24,3,182,7,27,0,11,3,0,0,3,0,1,LaLiga,984
+Luisinho,Defender,1,0,102,1,5,0,3,4,0,0,1,0,0,LaLiga,178
+Takefusa Kubo,Midfielder,8,5,126,10,13,0,1,1,0,1,0,0,0,LaLiga,293
+Franco VÃ¡zquez,Midfielder,3,1,102,2,15,0,5,1,0,0,1,0,1,LaLiga,154
+Ãngel RodrÃ­guez,Forward,38,14,277,6,33,0,7,2,0,0,4,0,5,LaLiga,1364
+Jon Bautista,Forward,12,3,88,6,21,1,5,2,0,0,3,0,0,LaLiga,353
+Abdallahi Mahmoud,Midfielder,0,0,15,1,2,0,2,1,0,0,0,0,0,LaLiga,66
+JosÃ© Manuel FontÃ¡n,Defender,5,3,319,0,14,0,12,13,0,1,1,0,0,LaLiga,652
+Hugo Duro,Forward,1,0,7,1,2,0,0,0,0,0,0,0,0,LaLiga,53
+IÃ±igo CÃ³rdoba,Midfielder,2,0,31,0,3,0,0,2,0,0,0,0,0,LaLiga,95
+Kenan Kodro,Forward,6,1,113,4,14,0,0,2,0,0,1,0,0,LaLiga,453
+Kingsley Fobi,Defender,0,0,6,0,1,0,0,1,0,0,0,0,0,LaLiga,45
+Vitolo,Midfielder,2,0,148,3,11,0,4,3,0,0,2,0,0,LaLiga,295
+Javier LÃ³pez,Defender,1,1,99,3,10,0,5,3,0,1,1,0,0,LaLiga,245
+Urko Gonzalez,Defender,0,0,31,1,2,0,0,0,0,0,1,0,0,LaLiga,47
+Miguel Baeza,Midfielder,11,3,195,8,22,0,7,3,0,0,0,0,1,LaLiga,532
+Manuel Nieto,Forward,1,0,3,1,2,0,1,0,0,0,0,0,0,LaLiga,12
+Moussa Dembele,Forward,6,2,31,1,5,0,0,1,0,0,0,0,0,LaLiga,95
+Juan SÃ¡nchez MiÃ±o,Defender,0,0,256,1,9,0,8,4,0,0,2,0,0,LaLiga,497
+Sergio LeÃ³n,Forward,19,5,135,6,28,0,6,3,0,0,1,0,2,LaLiga,734
+Augusto FernÃ¡ndez,Midfielder,0,0,118,0,12,0,11,9,0,0,1,0,0,LaLiga,366
+Ricard SÃ¡nchez,Defender,1,0,13,0,1,0,1,0,0,0,0,0,0,LaLiga,29
+Francisco Portillo,Midfielder,0,0,243,5,16,1,5,5,0,0,1,0,0,LaLiga,411
+Chimy Avila,Forward,8,2,52,0,8,0,6,1,0,0,0,0,0,LaLiga,199
+Jason,Midfielder,5,0,114,7,17,0,9,10,0,1,2,0,0,LaLiga,434
+Oier Zarraga,Midfielder,1,0,42,2,5,0,1,0,0,0,0,0,0,LaLiga,98
+Yann Bodiger,Midfielder,0,0,91,2,9,0,2,8,0,0,0,0,0,LaLiga,246
+Yan Eteki,Midfielder,7,3,351,4,25,0,23,13,0,1,4,0,0,LaLiga,1324
+Alberto Soro,Midfielder,2,2,117,6,15,2,7,1,0,0,1,0,1,LaLiga,384
+Cheick DoukourÃ©,Midfielder,0,0,43,1,7,0,5,3,0,0,1,0,0,LaLiga,96
+RubÃ©n Blanco,Goalkeeper,0,0,584,0,19,0,0,0,34,1,0,0,0,LaLiga,1645
+Waldo Rubio,Forward,9,2,109,1,10,0,6,3,0,0,1,0,1,LaLiga,376
+Borja Sainz,Midfielder,7,4,91,3,21,0,7,6,0,0,1,0,1,LaLiga,440
+Aritz Arambarri,Defender,0,0,15,0,1,0,1,0,0,0,0,0,0,LaLiga,25
+VÃ­ctor RodrÃ­guez,Midfielder,0,0,324,4,16,0,4,5,0,0,1,0,0,LaLiga,418
+Sofian Chakla,Defender,1,0,9,0,1,0,0,0,0,0,0,0,0,LaLiga,12
+Victor Mollejo,Forward,0,0,33,2,4,0,2,0,0,0,0,0,0,LaLiga,71
+Juan Brunet,Midfielder,0,0,8,0,2,0,0,0,0,0,0,0,0,LaLiga,24
+Damian Kadzior,Forward,5,1,47,1,6,0,1,0,0,0,0,0,0,LaLiga,195
+AdriÃ¡n MarÃ­n,Defender,1,0,44,1,5,0,1,2,0,0,0,0,0,LaLiga,91
+Ãlex MartÃ­n,Defender,0,0,33,0,2,0,2,0,0,0,0,0,0,LaLiga,95
+Sergio Benito,Forward,0,0,0,0,1,0,0,0,0,0,0,0,0,LaLiga,1
+Filip Malbasic,Midfielder,9,1,148,4,28,1,12,4,0,0,2,0,0,LaLiga,850
+Juan Carlos Real,Midfielder,5,1,93,4,15,1,5,1,0,0,0,0,0,LaLiga,282
+John Guidetti,Forward,5,1,67,1,10,0,2,1,0,0,1,0,1,LaLiga,201
+JoaquÃ­n MuÃ±oz,Midfielder,1,1,11,1,3,0,0,1,0,0,0,0,0,LaLiga,39
+Cristiano Piccini,Defender,1,0,23,0,3,0,1,0,0,0,0,0,0,LaLiga,65
+RaÃºl Navas,Defender,0,0,54,1,2,0,6,3,0,0,0,0,0,LaLiga,169
+Yoel RodrÃ­guez,Goalkeeper,0,0,93,0,4,0,0,0,3,0,0,0,0,LaLiga,299
+Koffi,Defender,0,0,10,0,1,0,0,2,0,0,0,0,0,LaLiga,45
+Youssouf Kone,Defender,0,0,17,0,3,0,2,0,0,0,0,0,0,LaLiga,72
+Carles AleÃ±Ã¡,Midfielder,1,0,39,0,2,0,1,0,0,0,1,0,0,LaLiga,46
+Stephane Paul Keller,Defender,0,0,13,0,1,0,1,0,0,0,0,0,0,LaLiga,16
+Marc Cardona,Forward,1,1,24,0,3,0,1,0,0,0,0,0,0,LaLiga,51
+DarÃ­o Poveda,Forward,0,0,5,0,1,0,0,0,0,0,0,0,0,LaLiga,4
+RamÃ³n Azeez,Midfielder,2,0,35,0,2,0,1,1,0,0,0,0,0,LaLiga,100
+TomÃ¡s Tavares,Defender,0,0,18,0,3,0,2,0,0,0,0,0,0,LaLiga,62
+Javi Moyano,Defender,0,0,28,0,2,0,0,0,0,0,0,0,0,LaLiga,104
+Patrick Cutrone,Forward,3,1,21,1,7,0,0,1,0,0,0,0,0,LaLiga,100
+Luismi,Midfielder,0,0,115,0,11,0,4,4,0,0,0,0,0,LaLiga,163
+RubÃ©n Sobrino,Forward,0,0,21,0,5,0,1,0,0,0,0,0,0,LaLiga,45
+Sergi GarcÃ­a,Midfielder,0,0,5,0,2,0,1,0,0,0,0,0,0,LaLiga,17
+Sabit Abdulai,Midfielder,0,0,13,0,3,0,2,0,0,0,1,0,0,LaLiga,58
+Kelechi Nwakali,Midfielder,0,0,81,1,5,0,4,1,0,0,1,0,0,LaLiga,139
+Koba Koindredi,Midfielder,0,0,10,0,2,0,1,0,0,0,0,0,0,LaLiga,13
+Quique GonzÃ¡lez,Forward,4,1,49,1,12,0,0,0,0,0,0,0,0,LaLiga,163
+Nino,Forward,3,1,114,2,16,0,0,0,0,0,1,0,0,LaLiga,273
+Ãlex Blesa,Midfielder,0,0,12,0,1,0,0,0,0,0,0,0,0,LaLiga,10
+David JuncÃ,Defender,0,0,0,0,1,0,0,0,0,0,1,0,0,LaLiga,1
+Hugo Sotelo,Midfielder,0,0,0,0,1,0,0,0,0,0,0,0,0,LaLiga,1
+Mamor Niang,Forward,1,0,4,0,1,0,1,0,0,0,0,0,0,LaLiga,21
+Miguel Rodriguez,Forward,0,0,14,0,4,0,1,0,0,0,2,0,0,LaLiga,26
+RamÃ³n Folch,Midfielder,0,0,0,0,1,0,0,0,0,0,0,0,0,LaLiga,1
+Sergio Cubero,Defender,0,0,0,0,1,0,0,0,0,0,0,0,0,LaLiga,1
+Facundo Ferreyra,Forward,7,2,48,0,13,0,4,2,0,1,3,0,1,LaLiga,293
+Giorgi Kochorashvili,Midfielder,1,0,13,1,3,0,1,0,0,0,0,0,0,LaLiga,22
+Bobby Adekanye,Forward,1,0,8,0,3,0,0,0,0,0,0,0,0,LaLiga,34
+Ãlex MillÃ¡n,Forward,0,0,1,0,1,0,0,0,0,0,0,0,0,LaLiga,1
+Sergio GonzÃ¡lez,Midfielder,1,0,30,0,1,0,1,2,0,0,0,0,0,LaLiga,90
+David Gil,Goalkeeper,0,0,113,0,4,0,0,0,7,0,0,0,0,LaLiga,360
+Gabriel Veiga,Midfielder,0,0,30,1,6,0,3,3,0,0,1,0,0,LaLiga,114
+Borja Mayoral,Forward,0,0,5,0,2,0,0,0,0,0,0,0,0,LaLiga,21
+Daniel Plomer,Forward,0,0,3,0,1,0,0,0,0,0,0,0,0,LaLiga,45
+John Patrick,Midfielder,2,0,15,0,6,0,2,0,0,0,0,0,0,LaLiga,60
+Ãlvaro Bastida,Midfielder,0,0,8,0,1,0,0,0,0,0,0,0,0,LaLiga,34
+Nano Mesa,Forward,0,0,3,0,1,0,0,0,0,0,0,0,0,LaLiga,8
+Josete Miranda,Forward,1,0,14,0,4,0,0,0,0,0,1,0,0,LaLiga,23
+Ferro,Defender,0,0,79,0,3,0,1,0,0,0,0,0,0,LaLiga,181
+Isma Ruiz,Midfielder,0,0,20,0,1,0,1,0,0,0,0,0,0,LaLiga,67
+Lautaro de LeÃ³n,Forward,0,0,3,0,1,0,0,0,0,0,0,0,0,LaLiga,13
+Unai Arietaleanizbeaskoa,Forward,1,0,7,0,4,0,1,0,0,0,1,0,0,LaLiga,43
+GerÃ³nimo Rulli,Goalkeeper,0,0,79,0,3,0,0,0,4,1,0,0,0,LaLiga,181
+John Donald,Midfielder,0,0,18,0,2,0,0,0,0,0,0,0,0,LaLiga,50
+Marc BarÃ³,Defender,1,1,7,2,1,0,2,2,0,0,0,0,0,LaLiga,90
+RubÃ©n MartÃ­nez,Goalkeeper,0,0,57,0,3,0,0,0,3,1,0,0,0,LaLiga,188
+Koke Vegas,Goalkeeper,0,0,26,0,2,0,0,0,2,0,1,0,0,LaLiga,91
+Unai Dufur,Midfielder,0,0,33,0,1,0,2,1,0,0,0,0,0,LaLiga,63
+EÃ±aut MendÃ­a,Midfielder,1,0,9,0,1,0,2,0,0,0,1,0,0,LaLiga,62
+Jokin Ezkieta,Goalkeeper,0,0,19,0,1,0,0,0,1,0,0,0,0,LaLiga,90
